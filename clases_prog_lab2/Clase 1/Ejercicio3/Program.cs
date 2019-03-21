@@ -30,9 +30,8 @@ namespace Ejercicio3
                 {
                     continue;
                 }
-               Console.WriteLine(i + " es primo");
+               Console.WriteLine("El numero "+ i + " es primo");
             }
-
             Console.ReadKey();
         }
     }
