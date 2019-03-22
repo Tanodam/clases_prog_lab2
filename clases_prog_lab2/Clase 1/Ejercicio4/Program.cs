@@ -14,7 +14,7 @@ namespace Ejercicio4
             int contador = 0;
             int numero;
 
-            for (numero = 1; contador <= 4; numero++)
+            for (numero = 1; contador != 4; numero++)
             {
                 for (int j = 1; j < numero; j++)
                 {
@@ -28,9 +28,11 @@ namespace Ejercicio4
                 {
                     Console.Write(numero + " es un numero perfecto\n");
                     contador++;
+                    
                 }
                 acumulador = 0;
             }
+            Console.ReadKey();
         }
     }
 }

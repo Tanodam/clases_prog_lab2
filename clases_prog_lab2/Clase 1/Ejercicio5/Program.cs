@@ -10,14 +10,14 @@ namespace Ejercicio5
     {
         static void Main(string[] args)
         {
-            int aumento = 1;
+            int aumento=1;
             int numero;
             int i;
             int j;
             int sumaAtras;
             int sumaAdelante;
 
-            Console.WriteLine("Ingrese un numero: ");
+            Console.Write("Ingrese un numero: ");
             numero = int.Parse(Console.ReadLine());
 
             while (aumento < numero)
@@ -31,22 +31,23 @@ namespace Ejercicio5
                 for (i = 1; i < aumento; i++)
                 {
                     sumaAtras = sumaAtras + i;
-                    
+                    //Console.WriteLine("Iteracion " + i + "suma atras " + sumaAtras + " AUMENTO "+ aumento);
                 }
                 //calculo para adelante
                 for (j = aumento + 1; j <= sumaAtras; j++)
                 {
-                    if ((sumaAdelante == sumaAtras) || (sumaAdelante > sumaAtras))
+                    if ((sumaAdelante == sumaAtras))
                     {
                         break;
                     }
-                        sumaAdelante = sumaAdelante + j;
+                    sumaAdelante = sumaAdelante + j;
+                    //Console.WriteLine("Iteracion " + i + "suma adelante " + sumaAdelante + " AUMENTO " + aumento);
                 }
 
-                // Mostrando en pantalla
+                // Mostrar en pantalla
                 if (sumaAtras == sumaAdelante)
                 {
-                    Console.WriteLine("Es centro numerico: "+ aumento);
+                    Console.WriteLine("Es centro numerico: " + aumento);
                 }
             }
             Console.ReadKey();
