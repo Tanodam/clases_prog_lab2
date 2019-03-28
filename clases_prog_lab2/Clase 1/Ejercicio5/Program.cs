@@ -31,7 +31,7 @@ namespace Ejercicio5
                 for (i = 1; i < aumento; i++)
                 {
                     sumaAtras = sumaAtras + i;
-                    //Console.WriteLine("Iteracion " + i + "suma atras " + sumaAtras + " AUMENTO "+ aumento);
+                    Console.WriteLine("Iteracion " + i + "suma atras " + sumaAtras + " AUMENTO "+ aumento);
                 }
                 //calculo para adelante
                 for (j = aumento + 1; j <= sumaAtras; j++)
@@ -41,7 +41,7 @@ namespace Ejercicio5
                         break;
                     }
                     sumaAdelante = sumaAdelante + j;
-                    //Console.WriteLine("Iteracion " + i + "suma adelante " + sumaAdelante + " AUMENTO " + aumento);
+                    Console.WriteLine("Iteracion " + i + "suma adelante " + sumaAdelante + " AUMENTO " + aumento);
                 }
 
                 // Mostrar en pantalla

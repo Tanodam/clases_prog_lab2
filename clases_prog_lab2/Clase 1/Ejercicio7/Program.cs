@@ -27,7 +27,7 @@ namespace Ejercicio7
 
             for (i = fechaNacimiento.Year; i <= hoy.Year; i++)
             {
-                if (((i % 4 == 0) && (i % 100 != 0)) || (i % 400 == 0))
+                if (DateTime.IsLeapYear(i))
                 {
                     diasxbisiesto++;
                     //Console.WriteLine(diasxbisiesto);

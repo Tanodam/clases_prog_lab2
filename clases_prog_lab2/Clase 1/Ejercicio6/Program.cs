@@ -10,18 +10,18 @@ namespace Ejercicio6
     {
         static void Main(string[] args)
         {
-            double startYear;
-            double finishYear;
+            int startYear;
+            int finishYear;
 
             Console.WriteLine("Ingrese el año de comienzo: ");
-            startYear = double.Parse(Console.ReadLine());
+            startYear = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Ingrese el año de finalizacion: ");
-            finishYear = double.Parse(Console.ReadLine());
+            finishYear = int.Parse(Console.ReadLine());
 
             do
             {
-                if ((startYear % 4 == 0) && (startYear % 100 != 0) || (startYear % 400 == 0))
+                if (DateTime.IsLeapYear(startYear))
                     {
                     Console.WriteLine(startYear + " es año bisiesto");
                 }

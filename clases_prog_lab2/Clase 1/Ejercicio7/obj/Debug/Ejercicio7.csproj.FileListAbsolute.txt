@@ -11,3 +11,4 @@ D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio7\obj\Debug
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio7\obj\Debug\Ejercicio7.csproj.CoreCompileInputs.cache
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio7\obj\Debug\Ejercicio7.exe
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio7\obj\Debug\Ejercicio7.pdb
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio7\obj\Debug\Ejercicio7.csprojAssemblyReference.cache
