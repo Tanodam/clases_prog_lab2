@@ -1,0 +1,6 @@
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio11\bin\Debug\Ejercicio11.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio11\bin\Debug\Ejercicio11.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio11\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio11\obj\Debug\Ejercicio11.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio11\obj\Debug\Ejercicio11.pdb
