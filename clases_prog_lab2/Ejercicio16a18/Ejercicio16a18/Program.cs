@@ -22,8 +22,11 @@ namespace Ejercicio16a18
             alumnoTres.Estudiar(3, 2);
 
             alumnoUno.calcularFinal();
+            System.Threading.Thread.Sleep(200);
             alumnoDos.calcularFinal();
+            System.Threading.Thread.Sleep(200);
             alumnoTres.calcularFinal();
+            System.Threading.Thread.Sleep(200);
 
             alumnoOne = alumnoUno.Mostrar();
             Console.WriteLine(alumnoOne);

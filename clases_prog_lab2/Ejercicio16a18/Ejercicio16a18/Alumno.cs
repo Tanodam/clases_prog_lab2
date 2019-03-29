@@ -32,7 +32,7 @@ namespace Ejercicio16a18
             if (nota1 >= 4 && nota2 >= 4)
             {
                 Random rnd = new Random();
-                notaFinal = rnd.Next(10);
+                notaFinal = rnd.Next(1,10);
             }
             else
             {
@@ -41,7 +41,10 @@ namespace Ejercicio16a18
         }
         public string Mostrar()
         {
-            string infoAlumno = "El nombre del alumno es " + nombre +' '+ apellido +"\nLegajo: "+legajo+ "\nNota 1: " + nota1 + "\nNota 2: "+nota2;
+            string infoAlumno = "El nombre del alumno es " + nombre +' '+ apellido +
+                                "\nLegajo: "+legajo+ 
+                                "\nNota 1: " + nota1 + 
+                                "\nNota 2: "+nota2;
             if(notaFinal != -1)
             {
                 infoAlumno += "\nLa nota final del alumno es: " + notaFinal;
