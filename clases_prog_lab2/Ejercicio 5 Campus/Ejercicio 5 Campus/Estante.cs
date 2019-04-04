@@ -11,11 +11,11 @@ namespace Ejercicio_5_Campus
         private Producto[] productos;
         private int ubicacionEstante;
 
-        public Estante(int cantidad)
+        public Estante(int capacidad)
         {
             this.productos = new Producto[capacidad];
         }
-        public Estante(int cantidad, int ubicacion) : this (capacidad)
+        public Estante(int capacidad, int ubicacion) : this(capacidad)
         {
             this.ubicacionEstante = ubicacion;
         }
@@ -23,11 +23,11 @@ namespace Ejercicio_5_Campus
         {
             return this.productos;
         }
-        public string MostrarEstante(Estante estante)
+        public static string MostrarEstante(Estante estante)
         {
             string datosEstante = "";
 
-            foreach(Producto auxiliar in Estante.productos)
+            foreach(Producto auxiliar in estante.productos)
             {
                 datosEstante += Producto.MostrarProducto(auxiliar);
             }
@@ -35,7 +35,7 @@ namespace Ejercicio_5_Campus
         }
         public static bool operator !=(Estante estante, Producto product)
         {
-            return estante == product;
+            return !(estante == product);
         }
         public static bool operator ==(Estante estante, Producto product)
         {
@@ -49,25 +49,41 @@ namespace Ejercicio_5_Campus
             }
         }
         public static Estante operator -(Estante estante, Producto product)
-        {
-          
-        }
-        public static bool operator +(Estante estante, Producto product)
-        {
-            bool valorRetorno = false;
-            if (estante != product)
+        {;
+            if (estante == product)
             {
-                for(int i=0; i<capacidad;i++)
+                for (int i = 0; i < estante.productos.Length; i++)
                 {
-                    if(Object.ReferenceEquals(product[i], null))
+                    if (Object.ReferenceEquals(estante.productos[i], product))
                     {
-                        valorRetorno = true;
-                        estante.productos[i] = product;
+                        estante.productos[i] = null;
                         break;
                     }
                 }
             }
-            return true;
+            return estante;
+        }
+        public static bool operator +(Estante estante, Producto product)
+        {
+            bool valorretorno = false;
+            if (estante != product)
+            {
+                for(int i=0; i<estante.productos.Length;i++)
+                {
+                    if(Object.ReferenceEquals(estante.productos[i], null))
+                    {
+                        estante.productos[i] = product;
+                        valorretorno = true;
+                        break;
+                    }
+                }
+            }
+            else
+            {
+                valorretorno = false;
+            }
+            return valorretorno;
+              
         }
     }
 }

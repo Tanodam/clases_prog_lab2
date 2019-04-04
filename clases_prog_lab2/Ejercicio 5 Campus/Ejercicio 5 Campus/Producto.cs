@@ -12,6 +12,7 @@ namespace Ejercicio_5_Campus
         private string marca;
         private float precio = 0;
 
+        //Constructor
         public Producto(string marca, string codigoDeBarras, float precio)
         {
             this.marca = marca;
@@ -29,13 +30,17 @@ namespace Ejercicio_5_Campus
         public static string MostrarProducto(Producto product)
         {
             string datosProducto = "";
+            if(!Object.ReferenceEquals(product,null))
+            {
             datosProducto += "Marca: "+ product.GetMarca();
             datosProducto += "\nPrecio: " + product.GetPrecio().ToString();
             datosProducto += "\nCodigo de barra: " + (string)product;
 
+            }
+
             return datosProducto;
         }
-        //Console.Write(string(Producto))
+        
         public static explicit operator string(Producto product)
         {
             return product.codigoDeBarra;
@@ -54,7 +59,7 @@ namespace Ejercicio_5_Campus
         }
         public static bool operator !=(Producto productOne, Producto productTwo)
         {
-            return productOne != productTwo;//Chequear con ale
+            return !(productOne == productTwo);//Chequear con ale
         }
         public static bool operator ==(Producto productOne, string marca)
         {
@@ -69,7 +74,7 @@ namespace Ejercicio_5_Campus
         }
         public static bool operator !=(Producto productOne, string marca)
         {
-            return productOne != marca;
+            return !(productOne == marca);
         }
     }
 }
