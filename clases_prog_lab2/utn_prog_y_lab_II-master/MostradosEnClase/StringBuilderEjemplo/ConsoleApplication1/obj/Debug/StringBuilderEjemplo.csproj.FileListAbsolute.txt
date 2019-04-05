@@ -1,0 +1,34 @@
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\StringBuilderEjemplo.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\StringBuilderEjemplo.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\VisualStudio\Federico Dávila\2017\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\StringBuilderEjemplo.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Federico\VB .Net\Visual C#\utn\2017\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\StringBuilderEjemplo.csprojAssemblyReference.cache
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\StringBuilderEjemplo.csproj.CoreCompileInputs.cache
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Federico Dávila\2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.CodeAnalysisLog.xml
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.lastcodeanalysissucceeded
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\StringBuilderEjemplo.csprojAssemblyReference.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\StringBuilderEjemplo.csproj.CoreCompileInputs.cache
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Federico Dávila 2018\utn_prog_y_lab_II\MostradosEnClase\StringBuilderEjemplo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

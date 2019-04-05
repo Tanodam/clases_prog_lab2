@@ -1,0 +1,7 @@
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio 5 Campus\Ejercicio 5 Campus\bin\Debug\Ejercicio 5 Campus.exe.config
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio 5 Campus\Ejercicio 5 Campus\bin\Debug\Ejercicio 5 Campus.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio 5 Campus\Ejercicio 5 Campus\bin\Debug\Ejercicio 5 Campus.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio 5 Campus\Ejercicio 5 Campus\obj\Debug\Ejercicio 5 Campus.csproj.CoreCompileInputs.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio 5 Campus\Ejercicio 5 Campus\obj\Debug\Ejercicio 5 Campus.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio 5 Campus\Ejercicio 5 Campus\obj\Debug\Ejercicio 5 Campus.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio 5 Campus\Ejercicio 5 Campus\obj\Debug\Ejercicio 5 Campus.csprojAssemblyReference.cache

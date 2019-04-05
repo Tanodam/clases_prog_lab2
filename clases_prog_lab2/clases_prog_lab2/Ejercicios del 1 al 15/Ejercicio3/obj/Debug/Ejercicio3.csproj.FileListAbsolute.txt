@@ -1,0 +1,14 @@
+D:\Desario Damian\Ejercicio1\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+D:\Desario Damian\Ejercicio1\Ejercicio3\bin\Debug\Ejercicio3.exe
+D:\Desario Damian\Ejercicio1\Ejercicio3\bin\Debug\Ejercicio3.pdb
+D:\Desario Damian\Ejercicio1\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\Desario Damian\Ejercicio1\Ejercicio3\obj\Debug\Ejercicio3.exe
+D:\Desario Damian\Ejercicio1\Ejercicio3\obj\Debug\Ejercicio3.pdb
+D:\Desario Damian\Ejercicio1\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio3\obj\Debug\Ejercicio3.pdb

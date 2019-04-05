@@ -1,0 +1,21 @@
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\bin\Debug\Ejercicio5.exe
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\bin\Debug\Ejercicio5.pdb
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\obj\Debug\Ejercicio5.csprojAssemblyReference.cache
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\obj\Debug\Ejercicio5.exe
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\obj\Debug\Ejercicio5.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\bin\Debug\Ejercicio5.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\bin\Debug\Ejercicio5.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\obj\Debug\Ejercicio5.csprojAssemblyReference.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\obj\Debug\Ejercicio5.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\obj\Debug\Ejercicio5.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\bin\Debug\Ejercicio5.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\bin\Debug\Ejercicio5.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\obj\Debug\Ejercicio5.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\obj\Debug\Ejercicio5.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercicio5\obj\Debug\Ejercicio5.pdb

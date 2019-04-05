@@ -1,0 +1,7 @@
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio16a18\Ejercicio16a18\obj\Debug\Ejercicio16a18.csprojAssemblyReference.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio16a18\Ejercicio16a18\obj\Debug\Ejercicio16a18.csproj.CoreCompileInputs.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio16a18\Ejercicio16a18\bin\Debug\Ejercicio16a18.exe.config
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio16a18\Ejercicio16a18\bin\Debug\Ejercicio16a18.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio16a18\Ejercicio16a18\bin\Debug\Ejercicio16a18.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio16a18\Ejercicio16a18\obj\Debug\Ejercicio16a18.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio16a18\Ejercicio16a18\obj\Debug\Ejercicio16a18.pdb
