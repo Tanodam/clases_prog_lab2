@@ -1,7 +1,0 @@
-C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio16a18\Ejercicio17\obj\Debug\Ejercicio17.csprojAssemblyReference.cache
-C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio16a18\Ejercicio17\obj\Debug\Ejercicio17.csproj.CoreCompileInputs.cache
-C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio16a18\Ejercicio17\bin\Debug\Ejercicio17.exe.config
-C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio16a18\Ejercicio17\bin\Debug\Ejercicio17.exe
-C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio16a18\Ejercicio17\bin\Debug\Ejercicio17.pdb
-C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio16a18\Ejercicio17\obj\Debug\Ejercicio17.exe
-C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio16a18\Ejercicio17\obj\Debug\Ejercicio17.pdb

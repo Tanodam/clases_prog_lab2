@@ -8,7 +8,6 @@ C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio16a18\Ejercicio19\obj\Debu
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio16a18\Ejercicio19\bin\Debug\Ejercicio19.exe.config
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio16a18\Ejercicio19\bin\Debug\Ejercicio19.exe
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio16a18\Ejercicio19\bin\Debug\Ejercicio19.pdb
-D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio16a18\Ejercicio19\obj\Debug\Ejercicio19.csprojAssemblyReference.cache
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio16a18\Ejercicio19\obj\Debug\Ejercicio19.csproj.CoreCompileInputs.cache
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio16a18\Ejercicio19\obj\Debug\Ejercicio19.exe
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio16a18\Ejercicio19\obj\Debug\Ejercicio19.pdb

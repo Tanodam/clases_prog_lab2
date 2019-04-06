@@ -1,7 +1,0 @@
-D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercico13\bin\Debug\Ejercico13.exe.config
-D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercico13\bin\Debug\Ejercico13.exe
-D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercico13\bin\Debug\Ejercico13.pdb
-D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercico13\obj\Debug\Ejercico13.csproj.CoreCompileInputs.cache
-D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercico13\obj\Debug\Ejercico13.exe
-D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercico13\obj\Debug\Ejercico13.pdb
-D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Clase 1\Ejercico13\obj\Debug\Ejercico13.csprojAssemblyReference.cache

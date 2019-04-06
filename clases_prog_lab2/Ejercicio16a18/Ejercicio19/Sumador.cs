@@ -24,14 +24,31 @@ namespace Ejercicio19
         }
         public string Sumar(string stringUno, string stringDos)
         {
-            this.cantidadSumas++;
-            return stringUno + stringDos;
+           cantidadSumas++;
+           return stringUno + stringDos;
         }
 
-        public int GetCantidadSumas()
+        public static explicit operator int(Sumador suma)
         {
-            return this.cantidadSumas;
+            return suma.cantidadSumas;
         }
+        public static long operator +(Sumador sumaUno, Sumador sumaDos)
+        {
+            long total = sumaUno.cantidadSumas + sumaDos.cantidadSumas;
+            return total;
+        }
+        public static bool operator |(Sumador sumaUno, Sumador sumaDos)
+        {
+            if(sumaUno.cantidadSumas == sumaDos.cantidadSumas)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
 
     }
 }
