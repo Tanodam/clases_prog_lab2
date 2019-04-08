@@ -9,17 +9,19 @@ namespace Entidades
     class Calculadora
     {
         /// <summary>
-        /// Metodo Operar
+        /// Metodo Operar utlizado para realizar los calculos solicitados por el usuario
         /// </summary>
-        /// <param name="num1">Numero Uno recibido</param>
-        /// <param name="num2">Numero Dos recibido</param>
-        /// <param name="operador">Operador a utilizar</param>
+        /// <param name="num1">Numero Uno recibido para operar</param>
+        /// <param name="num2">Numero Dos recibido para operar</param>
+        /// <param name="operador">Operador a utilizar </param>
         /// <returns>Resultado de la operacion solicitada</returns>
         public static string Operar(Numero num1, Numero num2, string operador)
         {
             double resultado = 0.0;
+            //SE VALIDA EL OPERADOR, SI EL USR PONE CUALQUIER COSA, RETORNA +
+            string operadorValidado = ValidarOperador(operador);
 
-            switch (operador)
+            switch (operadorValidado)
             {
 
                 case "+":
@@ -52,6 +54,12 @@ namespace Entidades
             }
             return Convert.ToString(resultado);
         }
+        /// <summary>
+        /// Metodo Validar Operador utilizado para validar que el operador que ingrese el usuario sea valido
+        /// Si no es valido, retornara un +
+        /// </summary>
+        /// <param name="operador">Operador que hay que validar</param>
+        /// <returns>Operador validado</returns>
         private static string ValidarOperador(string operador)
         {
             string operadorValido = "";
