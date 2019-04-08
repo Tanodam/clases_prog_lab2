@@ -64,16 +64,35 @@ namespace Entidades
 
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         {
-            Numero numeroUno = new Numero();
-            string strNumeroUno = txtNumeroUno.Text;
-            txtResultado.Text = numeroUno.DecimalBinario(strNumeroUno);
+            double resultado = 0;
+            string binario = "";
+
+            if (txtNumeroDos.Text != "0" || cbOperador.Text != "/")
+            {
+                resultado = MiCalculadora.Operar(txtNumeroUno.Text, txtNumeroDos.Text, cbOperador.Text);
+                binario = Numero.DecimalBinario(resultado);
+                txtResultado.Text = binario;
+            }
+            else
+            {
+                txtResultado.Text = "MATH ERROR";
+            }
         }
 
         private void ConvertirADecimal_Click(object sender, EventArgs e)
         {
-            Numero numeroUno = new Numero();
-            string strNumeroUno = txtNumeroUno.Text;
-            txtResultado.Text = numeroUno.BinarioDecimal(strNumeroUno);
+            double resultado = 0;
+            string binario = "";
+            if (txtNumeroDos.Text != "0" || cbOperador.Text != "/")
+            {
+                resultado = MiCalculadora.Operar(txtNumeroUno.Text, txtNumeroDos.Text, cbOperador.Text);
+                binario = Numero.BinarioDecimal(Convert.ToString(resultado));
+                txtResultado.Text = binario;
+            }
+            else
+            {
+                txtResultado.Text = "MATH ERROR";
+            }
         }
     }
 }

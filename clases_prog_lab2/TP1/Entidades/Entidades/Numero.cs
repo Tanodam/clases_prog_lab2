@@ -54,7 +54,7 @@ namespace Entidades
         /// </summary>
         /// <param name="binario">string con el nuevo binario</param>
         /// <returns></returns>
-        public string BinarioDecimal(string binario)
+        public static string BinarioDecimal(string binario)
         {
             char[] array = binario.ToCharArray();
             // Invertido pues los valores van incrementandose de derecha a izquierda: 16-8-4-2-1
