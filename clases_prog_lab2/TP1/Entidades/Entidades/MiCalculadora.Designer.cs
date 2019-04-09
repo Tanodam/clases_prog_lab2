@@ -36,7 +36,7 @@
             this.btnCerrar = new System.Windows.Forms.Button();
             this.btnConvertirABinario = new System.Windows.Forms.Button();
             this.ConvertirADecimal = new System.Windows.Forms.Button();
-            this.txtResultado = new System.Windows.Forms.Label();
+            this.lblResultado = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtNumeroUno
@@ -121,23 +121,23 @@
             this.ConvertirADecimal.UseVisualStyleBackColor = true;
             this.ConvertirADecimal.Click += new System.EventHandler(this.ConvertirADecimal_Click);
             // 
-            // txtResultado
+            // lblResultado
             // 
-            this.txtResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtResultado.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.txtResultado.Location = new System.Drawing.Point(165, 9);
-            this.txtResultado.Name = "txtResultado";
-            this.txtResultado.Size = new System.Drawing.Size(214, 39);
-            this.txtResultado.TabIndex = 7;
-            this.txtResultado.Text = "Resultado";
-            this.txtResultado.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblResultado.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.lblResultado.Location = new System.Drawing.Point(165, 9);
+            this.lblResultado.Name = "lblResultado";
+            this.lblResultado.Size = new System.Drawing.Size(214, 39);
+            this.lblResultado.TabIndex = 7;
+            this.lblResultado.Text = "Resultado";
+            this.lblResultado.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // MiCalculadora
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(391, 234);
-            this.Controls.Add(this.txtResultado);
+            this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.ConvertirADecimal);
             this.Controls.Add(this.btnConvertirABinario);
             this.Controls.Add(this.btnCerrar);
@@ -167,7 +167,7 @@
         private System.Windows.Forms.Button btnCerrar;
         private System.Windows.Forms.Button btnConvertirABinario;
         private System.Windows.Forms.Button ConvertirADecimal;
-        private System.Windows.Forms.Label txtResultado;
+        private System.Windows.Forms.Label lblResultado;
     }
 }
 

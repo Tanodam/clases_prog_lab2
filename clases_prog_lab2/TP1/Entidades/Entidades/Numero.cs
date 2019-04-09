@@ -10,22 +10,22 @@ namespace Entidades
     {
         private double numero = double.MinValue;
 
-        //Constructor por defecto, asigna 0 al valor inicial de numero
-        public Numero()
+        public Numero(double numero)
         {
-            numero = 0.0;
+            this.numero = numero;
         }
         //Constructor propio, asigna el valor pasado por parametro al valor inicial de numero, conviertiendolo a double antes
         public Numero(string numero)
         {
-            Double.TryParse(numero, out this.numero);
+            this.numero = ValidarNumero(numero);
+
         }
         public double SetNumero
         {
             set
             {
                 double num = ValidarNumero(Convert.ToString(value));
-                this.numero = num;
+                numero = num;
             }
         }
         /// <summary>
@@ -37,7 +37,7 @@ namespace Entidades
         {
             //Se inicializa el valor de numero en 0.0 y solo se cambiara si la conversion a Double fue correcta, caso
             //contratio retornara 0;
-            double numero = 0.0;
+            double numero;
 
             if (Double.TryParse(strNumero, out numero))
             {
@@ -46,6 +46,7 @@ namespace Entidades
             else
             {
                 return numero;
+
             }
         }
 
@@ -87,8 +88,8 @@ namespace Entidades
         {
             //Convierte el double en string para hacer el TryParse a int
             string numerostr = Convert.ToInt32(numero).ToString();
-            int num = 0;
-            if (int.TryParse(numerostr,out num))
+            int num;
+            if (Int32.TryParse(numerostr, out num) && numerostr.All(Char.IsNumber))
             {
                 return Convert.ToString(num, 2);
             }
@@ -105,14 +106,13 @@ namespace Entidades
         /// <returns>Numero convertido o valor invalido si la conversion falla</returns>
         public string DecimalBinario(string numero)
         {
-            if (numero.All(Char.IsNumber))
+            int num = 0;
+            if (numero.All(Char.IsNumber) || Int32.TryParse(numero, out num))
             {
-                int num = 0;
-                Int32.TryParse(numero, out num);
                 return Convert.ToString(num, 2);
             }
             else
-            {
+            { 
                 return "Valor invalido";
             }
         }

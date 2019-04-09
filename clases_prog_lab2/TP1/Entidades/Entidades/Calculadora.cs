@@ -62,36 +62,15 @@ namespace Entidades
         /// <returns>Operador validado</returns>
         private static string ValidarOperador(string operador)
         {
-            string operadorValido = "";
-            switch (operador)
+            if(operador == "+" || operador == "-" || operador == "*" || operador == "/")
             {
-                case "+":
-                    {
-                        operadorValido = operador;
-                        break;
-                    }
-                case "-":
-                    {
-                        operadorValido = operador;
-                        break;
-                    }
-                case "*":
-                    {
-                        operadorValido = operador;
-                        break;
-                    }
-                case "/":
-                    {
-                        operadorValido = operador;
-                        break;
-                    }
-                default:
-                    {
-                        operadorValido = "+";
-                        break;
-                    }
+                return operador;
             }
-            return operadorValido;
+            else
+            {
+                return "+";
+            }
+           
         }
     }
 }

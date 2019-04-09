@@ -15,8 +15,13 @@ namespace Entidades
         public MiCalculadora()
         {
             InitializeComponent();
+           
         }
 
+        private void MiCalculadora_Load(object sender, EventArgs e)
+        {
+            txtNumeroUno.Text = "Prueba";
+        }
         private void btnOperar_Click(object sender, EventArgs e)
         {
             double resultado = 0;
@@ -24,11 +29,11 @@ namespace Entidades
             if (txtNumeroDos.Text != "0" || cbOperador.Text != "/")
             {
                 resultado = MiCalculadora.Operar(txtNumeroUno.Text, txtNumeroDos.Text, cbOperador.Text);
-                txtResultado.Text = Convert.ToString(resultado);
+                lblResultado.Text = Convert.ToString(resultado);
             }
             else
             {
-                txtResultado.Text = "MATH ERROR";
+                lblResultado.Text = "MATH ERROR";
             }
 
         }
@@ -54,7 +59,7 @@ namespace Entidades
             txtNumeroUno.Text = "";
             txtNumeroDos.Text = "";
             cbOperador.Text = "";
-            txtResultado.Text = "";
+            lblResultado.Text = "";
         }
 
         private void btnCerrar_Click(object sender, EventArgs e)
@@ -71,11 +76,11 @@ namespace Entidades
             {
                 resultado = MiCalculadora.Operar(txtNumeroUno.Text, txtNumeroDos.Text, cbOperador.Text);
                 binario = Numero.DecimalBinario(resultado);
-                txtResultado.Text = binario;
+                lblResultado.Text = binario;
             }
             else
             {
-                txtResultado.Text = "MATH ERROR";
+                lblResultado.Text = "MATH ERROR";
             }
         }
 
@@ -87,11 +92,11 @@ namespace Entidades
             {
                 resultado = MiCalculadora.Operar(txtNumeroUno.Text, txtNumeroDos.Text, cbOperador.Text);
                 binario = Numero.BinarioDecimal(Convert.ToString(resultado));
-                txtResultado.Text = binario;
+                lblResultado.Text = binario;
             }
             else
             {
-                txtResultado.Text = "MATH ERROR";
+                lblResultado.Text = "MATH ERROR";
             }
         }
     }
