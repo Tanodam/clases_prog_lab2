@@ -1,0 +1,10 @@
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio28\Ejercicio28\bin\Debug\Ejercicio28.exe.config
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio28\Ejercicio28\bin\Debug\Ejercicio28.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio28\Ejercicio28\bin\Debug\Ejercicio28.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.csprojAssemblyReference.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.Form1.resources
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.Properties.Resources.resources
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.csproj.GenerateResource.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.csproj.CoreCompileInputs.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.pdb
