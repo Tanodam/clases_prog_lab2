@@ -39,21 +39,14 @@ namespace Ejercicio28
                     Palabras[word] += 1;
                 }
             }
-            //foreach (KeyValuePair<string, int> palabra in Palabras)
-            //{
-            //   MessageBox.Show("Clave ="+ palabra.Key +" Valor = "+ palabra.Value);
-            //}
-
-            // Acquire keys and sort them.
-            var list = Palabras.Keys.ToList();
-            list.Sort();
-
-            // Loop through keys.
-            foreach (var key in list)
+            //Ordena el diccionario en orden descendiente, ni idea como se hizo
+            Palabras = Palabras.OrderByDescending(x => x.Value).ToDictionary(x => x.Key, x => x.Value);
+            var list = new List<KeyValuePair<string, int>>();
+            foreach (KeyValuePair<string, int> palabra in Palabras)
             {
-               MessageBox.Show(key + (Palabras[key]));
+                list.Add(new KeyValuePair<string, int>(palabra.Key,palabra.Value));
             }
-
+            MessageBox.Show("TOP 3 [palabra, repeticiones]\n" + Convert.ToString(list.ElementAt(0)) + "\n" + Convert.ToString(list.ElementAt(1)) + "\n" + Convert.ToString(list.ElementAt(2)));
         }
     }
 }
