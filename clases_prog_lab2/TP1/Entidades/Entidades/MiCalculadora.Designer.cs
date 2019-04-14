@@ -1,6 +1,6 @@
 ﻿namespace Entidades
 {
-    partial class MiCalculadora
+    partial class FormCalculadora
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -35,7 +35,7 @@
             this.btnLimpiar = new System.Windows.Forms.Button();
             this.btnCerrar = new System.Windows.Forms.Button();
             this.btnConvertirABinario = new System.Windows.Forms.Button();
-            this.ConvertirADecimal = new System.Windows.Forms.Button();
+            this.btnConvertirADecimal = new System.Windows.Forms.Button();
             this.lblResultado = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -111,15 +111,15 @@
             this.btnConvertirABinario.UseVisualStyleBackColor = true;
             this.btnConvertirABinario.Click += new System.EventHandler(this.btnConvertirABinario_Click);
             // 
-            // ConvertirADecimal
+            // btnConvertirADecimal
             // 
-            this.ConvertirADecimal.Location = new System.Drawing.Point(201, 179);
-            this.ConvertirADecimal.Name = "ConvertirADecimal";
-            this.ConvertirADecimal.Size = new System.Drawing.Size(176, 39);
-            this.ConvertirADecimal.TabIndex = 0;
-            this.ConvertirADecimal.Text = "Convertir a decimal";
-            this.ConvertirADecimal.UseVisualStyleBackColor = true;
-            this.ConvertirADecimal.Click += new System.EventHandler(this.ConvertirADecimal_Click);
+            this.btnConvertirADecimal.Location = new System.Drawing.Point(201, 179);
+            this.btnConvertirADecimal.Name = "btnConvertirADecimal";
+            this.btnConvertirADecimal.Size = new System.Drawing.Size(176, 39);
+            this.btnConvertirADecimal.TabIndex = 0;
+            this.btnConvertirADecimal.Text = "Convertir a decimal";
+            this.btnConvertirADecimal.UseVisualStyleBackColor = true;
+            this.btnConvertirADecimal.Click += new System.EventHandler(this.btnConvertirADecimal_Click);
             // 
             // lblResultado
             // 
@@ -138,7 +138,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(391, 234);
             this.Controls.Add(this.lblResultado);
-            this.Controls.Add(this.ConvertirADecimal);
+            this.Controls.Add(this.btnConvertirADecimal);
             this.Controls.Add(this.btnConvertirABinario);
             this.Controls.Add(this.btnCerrar);
             this.Controls.Add(this.btnLimpiar);
@@ -152,6 +152,7 @@
             this.Name = "MiCalculadora";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora de Damián Desario del curso 2°C";
+            this.Load += new System.EventHandler(this.MiCalculadora_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -166,7 +167,7 @@
         private System.Windows.Forms.Button btnLimpiar;
         private System.Windows.Forms.Button btnCerrar;
         private System.Windows.Forms.Button btnConvertirABinario;
-        private System.Windows.Forms.Button ConvertirADecimal;
+        private System.Windows.Forms.Button btnConvertirADecimal;
         private System.Windows.Forms.Label lblResultado;
     }
 }

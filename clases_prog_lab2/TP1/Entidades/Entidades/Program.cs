@@ -12,7 +12,7 @@ namespace Entidades
         static void Main(string[] args)
         {
             Application.EnableVisualStyles();
-            Application.Run(new MiCalculadora());
+            Application.Run(new FormCalculadora());
 
         }
     }

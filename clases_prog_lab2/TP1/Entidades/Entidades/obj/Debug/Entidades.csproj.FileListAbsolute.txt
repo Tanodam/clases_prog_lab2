@@ -25,3 +25,12 @@ D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\TP1\Entidades\Entidades\obj\
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\TP1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\TP1\Entidades\Entidades\obj\Debug\Entidades.exe
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\TP1\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\clases_prog_lab2\TP1\Entidades\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\clases_prog_lab2\TP1\Entidades\Entidades\bin\Debug\Entidades.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\clases_prog_lab2\TP1\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\clases_prog_lab2\TP1\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\clases_prog_lab2\TP1\Entidades\Entidades\obj\Debug\Entidades.csproj.GenerateResource.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\clases_prog_lab2\TP1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\clases_prog_lab2\TP1\Entidades\Entidades\obj\Debug\Entidades.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\clases_prog_lab2\TP1\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\clases_prog_lab2\TP1\Entidades\Entidades\obj\Debug\Entidades.FormCalculadora.resources

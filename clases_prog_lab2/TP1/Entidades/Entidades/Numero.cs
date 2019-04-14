@@ -10,6 +10,10 @@ namespace Entidades
     {
         private double numero = double.MinValue;
 
+        public Numero()
+        {
+            this.numero = 0;
+        }
         public Numero(double numero)
         {
             this.numero = numero;
@@ -17,15 +21,14 @@ namespace Entidades
         //Constructor propio, asigna el valor pasado por parametro al valor inicial de numero, conviertiendolo a double antes
         public Numero(string numero)
         {
-            this.numero = ValidarNumero(numero);
+            SetNumero = numero;
 
         }
-        public double SetNumero
+        public string SetNumero
         {
             set
             {
-                double num = ValidarNumero(Convert.ToString(value));
-                numero = num;
+                numero = Convert.ToDouble(ValidarNumero(value));
             }
         }
         /// <summary>
@@ -58,6 +61,7 @@ namespace Entidades
         public static string BinarioDecimal(string binario)
         {
             char[] array = binario.ToCharArray();
+            int numero = Convert.ToInt32(binario);
             // Invertido pues los valores van incrementandose de derecha a izquierda: 16-8-4-2-1
             Array.Reverse(array);
             string retorno = "";
@@ -65,11 +69,15 @@ namespace Entidades
 
             for (int i = 0; i < array.Length; i++)
             {
-                if (array[i] == '1')
+                if (array[i] == '1' && numero >= 0)
                 {
                     // Usamos la potencia de 2, según la posición
                     sum += (int)Math.Pow(2, i);
                     retorno = Convert.ToString(sum);
+                }
+                else if(binario == "0")
+                {
+                    retorno = "0";
                 }
                 else
                 {
@@ -89,7 +97,7 @@ namespace Entidades
             //Convierte el double en string para hacer el TryParse a int
             string numerostr = Convert.ToInt32(numero).ToString();
             int num;
-            if (Int32.TryParse(numerostr, out num))
+            if (Int32.TryParse(numerostr, out num) && num > 0)
             {
                 return Convert.ToString(num, 2);
             }
@@ -104,10 +112,10 @@ namespace Entidades
         /// </summary>
         /// <param name="numero">Numero recibido para convertirlo</param>
         /// <returns>Numero convertido o valor invalido si la conversion falla</returns>
-        public string DecimalBinario(string numero)
+        public static string DecimalBinario(string numero)
         {
-            int num = 0;
-            if (numero.All(Char.IsNumber) || Int32.TryParse(numero, out num))
+            int num = Convert.ToInt32(numero);
+            if (numero.All(Char.IsNumber) && num >= 0)
             {
                 return Convert.ToString(num, 2);
             }

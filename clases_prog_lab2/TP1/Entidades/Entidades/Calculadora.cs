@@ -43,6 +43,7 @@ namespace Entidades
                     {//DIVISION
                         if (num2 == 0.0) // Se valida que no se divida por 0.
                         {
+                            resultado = double.MinValue;
                             break;
                         }
                         else
