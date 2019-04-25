@@ -1,0 +1,7 @@
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\CentralitaHerencia\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\CentralitaHerencia\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\CentralitaHerencia\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\CentralitaHerencia\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\CentralitaHerencia\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\CentralitaHerencia\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\CentralitaHerencia\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
