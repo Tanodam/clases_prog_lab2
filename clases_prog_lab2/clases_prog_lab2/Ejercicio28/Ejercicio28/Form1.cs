@@ -46,7 +46,11 @@ namespace Ejercicio28
             {
                 list.Add(new KeyValuePair<string, int>(palabra.Key,palabra.Value));
             }
-            MessageBox.Show("TOP 3 [palabra, repeticiones]\n" + Convert.ToString(list.ElementAt(0)) + "\n" + Convert.ToString(list.ElementAt(1)) + "\n" + Convert.ToString(list.ElementAt(2)));
+            //Mostrar TOP 3
+            MessageBox.Show("TOP 3 [palabra, repeticiones]\n" + 
+                            Convert.ToString(list.ElementAt(0)) + 
+                            "\n" + Convert.ToString(list.ElementAt(1)) + 
+                            "\n" + Convert.ToString(list.ElementAt(2)));
         }
     }
 }
