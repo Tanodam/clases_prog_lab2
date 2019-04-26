@@ -1,0 +1,6 @@
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\Entidades\bin\Debug\Entidades.dll
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\Entidades\bin\Debug\Entidades.pdb
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\Entidades\obj\Debug\Entidades.dll
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\Entidades\obj\Debug\Entidades.pdb

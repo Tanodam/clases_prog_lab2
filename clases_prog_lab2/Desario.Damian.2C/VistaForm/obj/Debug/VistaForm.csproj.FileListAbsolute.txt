@@ -1,0 +1,13 @@
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\VistaForm\bin\Debug\VistaForm.exe.config
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\VistaForm\bin\Debug\VistaForm.exe
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\VistaForm\bin\Debug\VistaForm.pdb
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\VistaForm\bin\Debug\Entidades.dll
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\VistaForm\bin\Debug\Entidades.pdb
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\VistaForm\obj\Debug\VistaForm.FormDT.resources
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\VistaForm\obj\Debug\VistaForm.exe
+D:\Damian Desario\clases_prog_lab2\Desario.Damian.2C\VistaForm\obj\Debug\VistaForm.pdb

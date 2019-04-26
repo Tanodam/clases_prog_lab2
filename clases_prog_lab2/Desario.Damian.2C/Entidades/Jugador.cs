@@ -45,10 +45,10 @@ namespace Entidades
         public override string Mostrar()
         {
             StringBuilder datos = new StringBuilder();
-            datos.Append(base.Mostrar());
-            datos.Append("\nPeso" + this.peso);
-            datos.Append("\nAltura" + this.altura);
-            datos.Append("\nPosicion" + this.posicion);
+            datos.AppendLine(base.Mostrar());
+            datos.AppendLine("Peso: " + this.peso);
+            datos.AppendLine("Altura. " + this.altura);
+            datos.AppendLine("Posicion: " + this.posicion);
             return datos.ToString();
         }
         public override bool ValidarAptitud()

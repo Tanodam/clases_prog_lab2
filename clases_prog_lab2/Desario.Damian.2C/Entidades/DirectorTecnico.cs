@@ -24,7 +24,7 @@ namespace Entidades
 
        public DirectorTecnico(string nombre, string apellido, int edad, int dni, int añosExperiencia) : base(nombre, apellido, edad, dni)
         {
-            this.añosExpericiencia = añosExperiencia;
+            this.AñosExperiencia = añosExpericiencia;
         }
         public override string Mostrar()
         {
@@ -35,10 +35,10 @@ namespace Entidades
         }
         public override bool ValidarAptitud()
         {
-            bool retorno = false;
-            if(this.Edad < 65 && this.añosExpericiencia >= 2)
+            bool retorno = true;
+            if(this.Edad > 65 && this.añosExpericiencia < 2)
             {
-                retorno = true;
+                retorno = false;
             }
             return retorno;
         }

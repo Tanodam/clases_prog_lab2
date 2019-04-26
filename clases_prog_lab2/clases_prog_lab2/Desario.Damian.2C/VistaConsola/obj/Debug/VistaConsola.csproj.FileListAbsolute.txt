@@ -1,0 +1,10 @@
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Desario.Damian.2C\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Desario.Damian.2C\VistaConsola\bin\Debug\VistaConsola.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Desario.Damian.2C\VistaConsola\bin\Debug\VistaConsola.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Desario.Damian.2C\VistaConsola\bin\Debug\Entidades.dll
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Desario.Damian.2C\VistaConsola\bin\Debug\Entidades.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Desario.Damian.2C\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Desario.Damian.2C\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Desario.Damian.2C\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Desario.Damian.2C\VistaConsola\obj\Debug\VistaConsola.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Desario.Damian.2C\VistaConsola\obj\Debug\VistaConsola.pdb
