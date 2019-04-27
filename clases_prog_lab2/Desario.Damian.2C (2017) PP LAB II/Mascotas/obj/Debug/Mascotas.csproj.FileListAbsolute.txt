@@ -1,0 +1,7 @@
+C:\Users\Dami\source\repos\Desario.Damian.2C\Mascotas\bin\Debug\Mascotas.exe.config
+C:\Users\Dami\source\repos\Desario.Damian.2C\Mascotas\bin\Debug\Mascotas.exe
+C:\Users\Dami\source\repos\Desario.Damian.2C\Mascotas\bin\Debug\Mascotas.pdb
+C:\Users\Dami\source\repos\Desario.Damian.2C\Mascotas\obj\Debug\Mascotas.csprojAssemblyReference.cache
+C:\Users\Dami\source\repos\Desario.Damian.2C\Mascotas\obj\Debug\Mascotas.csproj.CoreCompileInputs.cache
+C:\Users\Dami\source\repos\Desario.Damian.2C\Mascotas\obj\Debug\Mascotas.exe
+C:\Users\Dami\source\repos\Desario.Damian.2C\Mascotas\obj\Debug\Mascotas.pdb

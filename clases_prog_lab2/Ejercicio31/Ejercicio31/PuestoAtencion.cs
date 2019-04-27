@@ -8,7 +8,7 @@ namespace Ejercicio31
 {
     class PuestoAtencion
     {
-        private static int numeroActual;
+        private static int numeroActual = 0;
         private Puesto puesto;
 
 
@@ -21,6 +21,7 @@ namespace Ejercicio31
         public bool Atender(Cliente cli)
         {
             System.Threading.Thread.Sleep(4100);
+            numeroActual++;
             return true;
         }
         public static int NumeroActual
@@ -32,11 +33,11 @@ namespace Ejercicio31
         }
         private PuestoAtencion()
         {
-
+       
         }
         public PuestoAtencion(Puesto puesto)
         {
-
+            this.puesto = puesto;
         }
 
 }

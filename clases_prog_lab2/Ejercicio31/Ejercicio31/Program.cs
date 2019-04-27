@@ -10,6 +10,13 @@ namespace Ejercicio31
     {
         static void Main(string[] args)
         {
+            Negocio negocio = new Negocio("Almacen");
+            negocio.Cliente(
+            int clientesp = negocio.ClientesPendientes;
+
+            Console.WriteLine(clientesp);
+
+            Console.ReadKey();
         }
     }
 }

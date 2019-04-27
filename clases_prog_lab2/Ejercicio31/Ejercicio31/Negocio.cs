@@ -44,7 +44,7 @@ namespace Ejercicio31
             clientes = new Queue<Cliente>();
             caja = new PuestoAtencion(PuestoAtencion.Puesto.Caja1);
         }
-        public Negocio(string nombre)
+        public Negocio(string nombre) : this()
         {
             this.nombre = nombre;
         }

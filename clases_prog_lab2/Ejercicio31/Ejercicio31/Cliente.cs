@@ -32,11 +32,11 @@ namespace Ejercicio31
         }
         public Cliente(int numero)
         {
-        
+            this.numero++;
         }
         public Cliente(int numero, string nombre) : this(numero)
         {
-           
+            this.nombre = nombre;
         }
         public static bool operator ==(Cliente c1, Cliente c2)
         {
