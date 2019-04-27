@@ -79,7 +79,7 @@ namespace Mascotas
         public override string ToString()
         {
             StringBuilder datos = new StringBuilder();
-            datos.AppendLine(this.nombre + this.tipo);
+            datos.AppendLine(this.nombre + " " +this.tipo);
             foreach (Mascota mascota in this.manada)
             {
                 datos.AppendLine(mascota.Ficha());

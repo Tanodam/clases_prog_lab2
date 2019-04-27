@@ -50,11 +50,11 @@ namespace Mascotas
         {
             if(EsAlfa)
             {
-                return string.Format(base.DatosCompletos(), " alfa de la manada, edad {0}", Edad);
+                return string.Format(base.DatosCompletos()+ " alfa de la manada, edad {0}", Edad);
             }
             else
             {
-                return string.Format(base.DatosCompletos(), "edad {0}", Edad);
+                return string.Format(base.DatosCompletos() + " edad {0}", Edad);
             }
         }
         public static explicit operator int(Perro perro)
