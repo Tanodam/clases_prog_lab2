@@ -1,0 +1,6 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C (20171005) PP Lab II\Entidades\bin\Debug\Entidades.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C (20171005) PP Lab II\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C (20171005) PP Lab II\Entidades\obj\Debug\EntidadFinanciera.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C (20171005) PP Lab II\Entidades\obj\Debug\EntidadFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C (20171005) PP Lab II\Entidades\obj\Debug\Entidades.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C (20171005) PP Lab II\Entidades\obj\Debug\Entidades.pdb

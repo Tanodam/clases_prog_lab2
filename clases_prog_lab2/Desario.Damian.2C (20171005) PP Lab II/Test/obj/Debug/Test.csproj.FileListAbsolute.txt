@@ -1,0 +1,10 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C (20171005) PP Lab II\Test\bin\Debug\Test.exe.config
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C (20171005) PP Lab II\Test\bin\Debug\Test.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C (20171005) PP Lab II\Test\bin\Debug\Test.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C (20171005) PP Lab II\Test\bin\Debug\Entidades.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C (20171005) PP Lab II\Test\bin\Debug\Entidades.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C (20171005) PP Lab II\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C (20171005) PP Lab II\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C (20171005) PP Lab II\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C (20171005) PP Lab II\Test\obj\Debug\Test.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C (20171005) PP Lab II\Test\obj\Debug\Test.pdb

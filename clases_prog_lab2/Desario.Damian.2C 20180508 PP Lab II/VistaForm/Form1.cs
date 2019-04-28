@@ -16,40 +16,45 @@ namespace VistaForm
         private Profesor profesor;
         private Division division;
         private Curso curso;
+        private Alumno alumno;
+
         public Form1()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnCrearCurso_Click(object sender, EventArgs e)
         {
+            Enum.TryParse<Division>(comboBoxDivisonCurso.SelectedValue.ToString(), out division);
             profesor = new Profesor(txtNombreCurso.Text, txtBoxApellidoCurso.Text, txtBoxDniCurso.Text, dateTimePickerIngreso.Value.Date);
-            division = new Division();
-            switch (comboBoxDivisonCurso.Text)
-            {
-                case "A":
-                    division = Division.A;
-                    break;
-                case "B":
-                    division = Division.B;
-                    break;
-                case "C":
-                    division = Division.C;
-                    break;
-                case "D":
-                    division = Division.D;
-                    break;
-                case "E":
-                    division = Division.E;
-                    break;
-                 
-            }
             curso = new Curso((short)numericUpDownAñoCurso.Value, division, profesor);
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void btnMostrarCurso_Click(object sender, EventArgs e)
         {
-            richTextBox.AppendText((string)curso);
+            richTextBox.Clear();
+            if (Object.ReferenceEquals(curso,null))
+            {
+                MessageBox.Show("Error", "Atencion", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            { 
+                richTextBox.AppendText((string)curso);
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            comboBoxDivisonAlumno.DataSource = Enum.GetValues(typeof(Division));
+            comboBoxDivisonCurso.DataSource = Enum.GetValues(typeof(Division));
+        }
+
+        private void btnAgregarAlumno_Click(object sender, EventArgs e)
+        {
+            Enum.TryParse<Division>(comboBoxDivisonAlumno.SelectedValue.ToString(), out division);
+            alumno = new Alumno(txtBoxApellidoAlumno.Text, txtBoxApellidoAlumno.Text, txtBoxLegajo.Text,(short)numericUpDownAñoAlumno.Value, division);
+            curso += alumno;
+
         }
     }
 }

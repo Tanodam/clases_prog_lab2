@@ -42,6 +42,8 @@
             this.lblDivision = new System.Windows.Forms.Label();
             this.lblAño = new System.Windows.Forms.Label();
             this.groupBoxDatosAlumno = new System.Windows.Forms.GroupBox();
+            this.comboBoxDivisonAlumno = new System.Windows.Forms.ComboBox();
+            this.label5 = new System.Windows.Forms.Label();
             this.txtBoxLegajo = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.numericUpDownAñoAlumno = new System.Windows.Forms.NumericUpDown();
@@ -50,11 +52,9 @@
             this.txtBoxNombreAlumno = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.comboBoxDivisonAlumno = new System.Windows.Forms.ComboBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.btnCrearCurso = new System.Windows.Forms.Button();
+            this.brnMostrarCurso = new System.Windows.Forms.Button();
+            this.btnAgregarAlumno = new System.Windows.Forms.Button();
             this.richTextBox = new System.Windows.Forms.RichTextBox();
             this.groupBoxDatosCurso.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownAñoCurso)).BeginInit();
@@ -205,6 +205,23 @@
             this.groupBoxDatosAlumno.TabStop = false;
             this.groupBoxDatosAlumno.Text = "Datos Alumno";
             // 
+            // comboBoxDivisonAlumno
+            // 
+            this.comboBoxDivisonAlumno.FormattingEnabled = true;
+            this.comboBoxDivisonAlumno.Location = new System.Drawing.Point(55, 127);
+            this.comboBoxDivisonAlumno.Name = "comboBoxDivisonAlumno";
+            this.comboBoxDivisonAlumno.Size = new System.Drawing.Size(121, 21);
+            this.comboBoxDivisonAlumno.TabIndex = 17;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(6, 130);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(44, 13);
+            this.label5.TabIndex = 16;
+            this.label5.Text = "Division";
+            // 
             // txtBoxLegajo
             // 
             this.txtBoxLegajo.Location = new System.Drawing.Point(56, 76);
@@ -269,51 +286,35 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Año";
             // 
-            // comboBoxDivisonAlumno
+            // btnCrearCurso
             // 
-            this.comboBoxDivisonAlumno.FormattingEnabled = true;
-            this.comboBoxDivisonAlumno.Location = new System.Drawing.Point(55, 127);
-            this.comboBoxDivisonAlumno.Name = "comboBoxDivisonAlumno";
-            this.comboBoxDivisonAlumno.Size = new System.Drawing.Size(121, 21);
-            this.comboBoxDivisonAlumno.TabIndex = 17;
+            this.btnCrearCurso.Location = new System.Drawing.Point(21, 214);
+            this.btnCrearCurso.Name = "btnCrearCurso";
+            this.btnCrearCurso.Size = new System.Drawing.Size(75, 23);
+            this.btnCrearCurso.TabIndex = 2;
+            this.btnCrearCurso.Text = "Crear Curso";
+            this.btnCrearCurso.UseVisualStyleBackColor = true;
+            this.btnCrearCurso.Click += new System.EventHandler(this.btnCrearCurso_Click);
             // 
-            // label5
+            // brnMostrarCurso
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(6, 130);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(44, 13);
-            this.label5.TabIndex = 16;
-            this.label5.Text = "Division";
+            this.brnMostrarCurso.Location = new System.Drawing.Point(137, 214);
+            this.brnMostrarCurso.Name = "brnMostrarCurso";
+            this.brnMostrarCurso.Size = new System.Drawing.Size(75, 23);
+            this.brnMostrarCurso.TabIndex = 3;
+            this.brnMostrarCurso.Text = "Mostrar";
+            this.brnMostrarCurso.UseVisualStyleBackColor = true;
+            this.brnMostrarCurso.Click += new System.EventHandler(this.btnMostrarCurso_Click);
             // 
-            // button1
+            // btnAgregarAlumno
             // 
-            this.button1.Location = new System.Drawing.Point(21, 214);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "Crear Curso";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(137, 214);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 3;
-            this.button2.Text = "Mostrar";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
-            // button3
-            // 
-            this.button3.Location = new System.Drawing.Point(363, 214);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 4;
-            this.button3.Text = "Agregar";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btnAgregarAlumno.Location = new System.Drawing.Point(363, 214);
+            this.btnAgregarAlumno.Name = "btnAgregarAlumno";
+            this.btnAgregarAlumno.Size = new System.Drawing.Size(75, 23);
+            this.btnAgregarAlumno.TabIndex = 4;
+            this.btnAgregarAlumno.Text = "Agregar";
+            this.btnAgregarAlumno.UseVisualStyleBackColor = true;
+            this.btnAgregarAlumno.Click += new System.EventHandler(this.btnAgregarAlumno_Click);
             // 
             // richTextBox
             // 
@@ -329,13 +330,14 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(450, 450);
             this.Controls.Add(this.richTextBox);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnAgregarAlumno);
+            this.Controls.Add(this.brnMostrarCurso);
+            this.Controls.Add(this.btnCrearCurso);
             this.Controls.Add(this.groupBoxDatosAlumno);
             this.Controls.Add(this.groupBoxDatosCurso);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBoxDatosCurso.ResumeLayout(false);
             this.groupBoxDatosCurso.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownAñoCurso)).EndInit();
@@ -372,9 +374,9 @@
         private System.Windows.Forms.NumericUpDown numericUpDownAñoAlumno;
         private System.Windows.Forms.ComboBox comboBoxDivisonAlumno;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btnCrearCurso;
+        private System.Windows.Forms.Button brnMostrarCurso;
+        private System.Windows.Forms.Button btnAgregarAlumno;
         private System.Windows.Forms.RichTextBox richTextBox;
     }
 }
