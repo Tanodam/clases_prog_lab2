@@ -19,7 +19,7 @@ namespace VistaConsola
             Alumno a2 = new Alumno("José", "Martínez", "23-3343-6", 2, Division.B);
             Alumno a3 = new Alumno("María", "Gutiérrez", "22-3333-2", 2, Division.A);
             Alumno a4 = new Alumno("Marta", "Rodríguez", "23-3343-6", 2, Division.A);
-            Alumno a5 = new Alumno("Marta", "Rodríguez", "233343126", 2, Division.A);
+            Alumno a5 = new Alumno("Marta", "Rodríguez", "23-334312-6", 2, Division.A);
             // ... Y los agrego al curso
             curso += a1;
             curso += a2;

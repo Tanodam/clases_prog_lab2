@@ -40,8 +40,8 @@ namespace Entidades
         public static explicit operator string(Estacionamiento estacionamiento)
         {
             StringBuilder datos = new StringBuilder();
-            datos.AppendLine(estacionamiento.nombre);
-            datos.Append(estacionamiento.espacioDisponible.ToString());
+            datos.Append("Nombre: "+estacionamiento.nombre+"\t");
+            datos.Append("Capacidad: "+estacionamiento.espacioDisponible.ToString());
             foreach (Vehiculo vehiculo in estacionamiento.vehiculos)
             {
                 datos.AppendLine(vehiculo.ConsultarDatos());

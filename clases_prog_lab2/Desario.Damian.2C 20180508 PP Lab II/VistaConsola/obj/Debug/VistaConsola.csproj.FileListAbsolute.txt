@@ -1,0 +1,10 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C 20180508 PP Lab II\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C 20180508 PP Lab II\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C 20180508 PP Lab II\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C 20180508 PP Lab II\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C 20180508 PP Lab II\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C 20180508 PP Lab II\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C 20180508 PP Lab II\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C 20180508 PP Lab II\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C 20180508 PP Lab II\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian.2C 20180508 PP Lab II\VistaConsola\obj\Debug\VistaConsola.pdb

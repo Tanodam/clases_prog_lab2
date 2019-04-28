@@ -34,8 +34,10 @@ namespace Entidades
         public static explicit operator string(Curso c)
         {
             StringBuilder datos = new StringBuilder();
-            datos.AppendLine(c.AnioDivision);
+            datos.AppendLine("Curso: "+ c.AnioDivision);
+            datos.Append("Profesor: ");
             datos.AppendLine(c.profesor.ExponerDatos());
+            datos.AppendLine("\nAlumnos\n");
             foreach (Alumno alumno in c.alumnos)
             {
                 datos.AppendLine(alumno.ExponerDatos());
@@ -60,7 +62,7 @@ namespace Entidades
         }
         public static Curso operator +(Curso c, Alumno a)
         {
-            if(c.alumnos != null && c == a)
+            if(c.alumnos != null && a.Documento != null && c == a)
             {
                 c.alumnos.Add(a);
                 return c;

@@ -27,7 +27,12 @@ namespace Entidades
         }
         protected override bool ValidarDocumentacion(string doc)
         {
+            if(!doc.Contains("-"))
+            {
+                return false;
+            }
             return true;
+
         }
         public override string ExponerDatos()
         {

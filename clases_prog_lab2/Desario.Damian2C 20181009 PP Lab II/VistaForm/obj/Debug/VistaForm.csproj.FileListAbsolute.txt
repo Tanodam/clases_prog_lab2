@@ -1,0 +1,13 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian2C 20181009 PP Lab II\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian2C 20181009 PP Lab II\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian2C 20181009 PP Lab II\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian2C 20181009 PP Lab II\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian2C 20181009 PP Lab II\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian2C 20181009 PP Lab II\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian2C 20181009 PP Lab II\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian2C 20181009 PP Lab II\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian2C 20181009 PP Lab II\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian2C 20181009 PP Lab II\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian2C 20181009 PP Lab II\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian2C 20181009 PP Lab II\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Desario.Damian2C 20181009 PP Lab II\VistaForm\obj\Debug\VistaForm.FrmPickup.resources

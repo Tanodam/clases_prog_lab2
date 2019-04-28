@@ -50,8 +50,8 @@ namespace Entidades
             diferenciaInt = diferenciaInt * valorHora;
             StringBuilder datos = new StringBuilder();
             datos.Append(base.ImprimirTicket());
-            datos.AppendLine("Valor Hora: " + valorHora);
-            datos.AppendLine("Costo: " + diferenciaInt.ToString());
+            datos.AppendLine("Valor Hora: $" + valorHora);
+            datos.AppendLine("Costo: $" + diferenciaInt.ToString());
             return datos.ToString();
         }
 

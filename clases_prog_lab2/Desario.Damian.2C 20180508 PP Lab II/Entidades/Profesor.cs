@@ -29,13 +29,17 @@ namespace Entidades
         }
         protected override bool ValidarDocumentacion(string doc)
         {
-            return true;
+            if(doc.Length == 8)
+            {
+                return true;
+            }
+            return false;
         }
         public override string ExponerDatos()
         {
             StringBuilder datos = new StringBuilder();
-            datos.AppendLine(base.ExponerDatos());
-            datos.AppendLine(Antiguedad.ToString());
+            datos.Append(base.ExponerDatos());
+            datos.Append("Antiguedad: " + Antiguedad.ToString());
             return datos.ToString();
         }
     }

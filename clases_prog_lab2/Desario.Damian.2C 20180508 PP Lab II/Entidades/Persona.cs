@@ -33,7 +33,11 @@ namespace Entidades
         {
             set
             {
+                if(ValidarDocumentacion(value))
+                {
                 this.documento = (value);
+
+                }
             }
             get
             {
@@ -60,8 +64,8 @@ namespace Entidades
         public virtual string ExponerDatos()
         {
             StringBuilder datos = new StringBuilder();
-            datos.AppendLine(Nombre + Apellido);
-            datos.AppendLine(Documento);
+            datos.AppendLine(Nombre +" "+ Apellido);
+            datos.AppendLine("DNI: "+Documento);
             return datos.ToString();
         }
         abstract protected bool ValidarDocumentacion(string doc);
