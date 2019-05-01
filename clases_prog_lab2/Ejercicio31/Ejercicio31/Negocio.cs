@@ -8,93 +8,104 @@ namespace Ejercicio31
 {
     class Negocio
     {
-        private PuestoAtencion caja;
-        private Queue<Cliente> clientes;
-        private string nombre;
-        bool agredadoONoAgredado;
-
-        public Cliente Cliente
+        public class Negocio
         {
-            get
+            private PuestoAtencion caja;
+            private Queue<Cliente> clientes;
+            private string nombre;
+
+            #region Propiedades
+
+            public Cliente Cliente
             {
-                if(clientes.Count != 0)
+                get
                 {
-                    return clientes.Dequeue();
+                    if (clientes.Count > 0)
+                    {
+                        return clientes.Dequeue();
+                    }
+                    else
+                    {
+                        return new Cliente(0); //Se utiliza el numero 0 para validar cliente inexistente
+                    }
+                }
+                set
+                {
+                    if (!clientes.Contains(value))
+                    {
+                        clientes.Enqueue(value);
+                    }
+                }
+            }
+
+            public byte ClientesPendientes
+            {
+                get
+                {
+                    return (byte)this.clientes.Count;
+                }
+            }
+
+            #endregion
+
+            #region Constructores
+
+            private Negocio()
+            {
+                this.clientes = new Queue<Cliente>();
+                this.caja = new PuestoAtencion(Puesto.Caja1);
+            }
+
+            public Negocio(string nombre) : this()
+            {
+                this.nombre = nombre;
+            }
+
+            #endregion
+
+            #region Operadores
+
+            public static bool operator !=(Negocio negocio, Cliente cliente)
+            {
+                return !(negocio == cliente);
+            }
+
+            public static bool operator ==(Negocio negocio, Cliente cliente)
+            {
+                if (negocio.clientes.Contains(cliente))
+                {
+                    return true;
                 }
                 else
                 {
-                    return null;
+                    return false;
                 }
             }
-            set
+
+            public static bool operator ~(Negocio negocio)
             {
-                agredadoONoAgredado = this + value;
-                //this = negocio y value = cliente
+                if (negocio.caja.Atender(negocio.Cliente))
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
             }
-        }
-        public int ClientesPendientes
-        {
-            get
+
+            public static bool operator +(Negocio negocio, Cliente cliente)
             {
-                return clientes.Count;
-            }
-        }
-        private Negocio()
-        {
-            clientes = new Queue<Cliente>();
-            caja = new PuestoAtencion(PuestoAtencion.Puesto.Caja1);
-        }
-        public Negocio(string nombre) : this()
-        {
-            this.nombre = nombre;
-        }
-        public static bool operator +(Negocio negocio, Cliente cliente)
-        {
-           if(negocio != cliente)
-            {
+                foreach (Cliente clienteAux in negocio.clientes)
+                {
+                    if (clienteAux == cliente)
+                    {
+                        return false;
+                    }
+                }
                 negocio.clientes.Enqueue(cliente);
                 return true;
             }
-           else
-            {
-                return false;
-            }
-        }
-        public static bool operator ~(Negocio negocio)
-        {
-            Cliente clientePorAtender = negocio.Cliente; //Traigo el cliente  de la cola
-            PuestoAtencion caja = new PuestoAtencion(PuestoAtencion.Puesto.Caja1); // disponibilizo una caja
-            if(caja.Atender(clientePorAtender))//Atiendo
-            {
-                  return true;
-            }
-            else
-            {
-                return false;
-            }
-        }
-        public static bool operator ==(Negocio negocio, Cliente cliente)
-        {
-            bool retorno = true;
-            foreach (Cliente client in negocio.clientes)
-            {
-                if (client == cliente)
-                {
-                    retorno = false;
-                }
 
-            }
-            if (retorno == false)
-            {
-                negocio.clientes.Enqueue(cliente);
-                retorno = true;
-            }
-            return retorno;
         }
-        public static bool operator !=(Negocio negocio, Cliente cliente)
-        {
-            return !(negocio == cliente);
-        }
-
-    }
 }

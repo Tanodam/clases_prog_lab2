@@ -1,0 +1,7 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio29\Ejercicio29\bin\Debug\Ejercicio29.exe.config
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio29\Ejercicio29\bin\Debug\Ejercicio29.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio29\Ejercicio29\bin\Debug\Ejercicio29.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio29\Ejercicio29\obj\Debug\Ejercicio29.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio29\Ejercicio29\obj\Debug\Ejercicio29.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio29\Ejercicio29\obj\Debug\Ejercicio29.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio29\Ejercicio29\obj\Debug\Ejercicio29.pdb

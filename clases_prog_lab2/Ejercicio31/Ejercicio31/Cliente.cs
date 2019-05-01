@@ -40,7 +40,14 @@ namespace Ejercicio31
         }
         public static bool operator ==(Cliente c1, Cliente c2)
         {
-            return c1.numero == c2.numero;
+            if (c1.Numero == c2.Numero)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
         public static bool operator !=(Cliente c1, Cliente c2)
         {

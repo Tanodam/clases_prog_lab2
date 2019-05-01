@@ -1,0 +1,7 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Competencia\Competencia\bin\Debug\Competencia.exe.config
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Competencia\Competencia\bin\Debug\Competencia.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Competencia\Competencia\bin\Debug\Competencia.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Competencia\Competencia\obj\Debug\Ejercicio30.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Competencia\Competencia\obj\Debug\Ejercicio30.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Competencia\Competencia\obj\Debug\Competencia.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Competencia\Competencia\obj\Debug\Competencia.pdb
