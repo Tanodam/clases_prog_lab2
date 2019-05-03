@@ -1,0 +1,16 @@
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\bin\Debug\CentralitaForm.exe.config
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\bin\Debug\CentralitaForm.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\bin\Debug\CentralitaForm.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\bin\Debug\CentralitaHerencia.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\bin\Debug\CentralitaHerencia.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\bin\Debug\CentralitaHerencia.exe.config
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.csprojAssemblyReference.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.frmLlamador.resources
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.Properties.Resources.resources
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.csproj.GenerateResource.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.csproj.CoreCompileInputs.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.csproj.CopyComplete
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.FrmMostrar.resources
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.FrmMenu.resources

@@ -15,7 +15,7 @@ namespace CentralitaHerencia
         {
             get
             {
-                return this.costoLlamada;
+                return this.CalcularCosto();
             }
         }
 
