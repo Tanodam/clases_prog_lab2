@@ -13,7 +13,7 @@ namespace CentralitaForm
 {
     public partial class FrmMenu : Form
     {
-        Centralita centralita;  
+        Centralita centralita = new Centralita();
         public FrmMenu()
         {
             InitializeComponent();
@@ -21,7 +21,6 @@ namespace CentralitaForm
 
         private void botonGenerarLlamada_Click(object sender, EventArgs e)
         {
-            centralita = new Centralita();
             FrmLlamador frmLlamdor = new FrmLlamador(centralita);
             frmLlamdor.ShowDialog();
             centralita = frmLlamdor.Centralita;
