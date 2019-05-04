@@ -31,14 +31,18 @@ namespace CentralitaForm
                 switch (tipo)
                 {
                     case TipoLlamada.Local:
-                        richTextBox1.Text += ("\nFacturacion por Local\nPesos: $" + centralita.GananciasPorLocal);
+                        richTextBox1.Text += ("Facturacion por Local\n" + centralita.GananciasPorLocal);
                         break;
                     case TipoLlamada.Provincial:
 
-                        richTextBox1.Text += ("\nFacturacion por Provincial\nPesos: $" + centralita.GananciasPorProvincial);
+                        richTextBox1.Text += ("Facturacion por Provincial\nPesos: $" + centralita.GananciasPorProvincial);
                         break;
                     default:
-                        richTextBox1.Text += ("\nFacturacion por Todas\nPesos: $" + centralita.GananciasPorTotal);
+                        StringBuilder total = new StringBuilder();
+                        total.AppendLine("Facturacion por Local: "+ centralita.GananciasPorLocal);
+                        total.AppendLine("Facturacion por Provincial: " + centralita.GananciasPorProvincial);
+                        total.AppendLine("Facturacion Total: " + centralita.GananciasPorTotal);
+                        richTextBox1.Text += total.ToString();
                         break;
 
                 }

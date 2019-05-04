@@ -14,3 +14,19 @@ D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\o
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.pdb
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.FrmMostrar.resources
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.FrmMenu.resources
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio40\CentralitaForm\bin\Debug\CentralitaForm.exe.config
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio40\CentralitaForm\bin\Debug\CentralitaForm.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio40\CentralitaForm\bin\Debug\CentralitaForm.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio40\CentralitaForm\bin\Debug\CentralitaHerencia.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio40\CentralitaForm\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio40\CentralitaForm\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.FrmMenu.resources
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.FrmLlamador.resources
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.FrmMostrar.resources
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.Properties.Resources.resources
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.csproj.GenerateResource.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.csproj.CopyComplete
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio40\CentralitaForm\obj\Debug\CentralitaForm.pdb

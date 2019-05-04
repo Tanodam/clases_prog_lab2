@@ -85,7 +85,7 @@
             this.botonAsterisco.Location = new System.Drawing.Point(7, 107);
             this.botonAsterisco.Name = "botonAsterisco";
             this.botonAsterisco.Size = new System.Drawing.Size(29, 23);
-            this.botonAsterisco.TabIndex = 11;
+            this.botonAsterisco.TabIndex = 9;
             this.botonAsterisco.Text = "*";
             this.botonAsterisco.UseVisualStyleBackColor = true;
             this.botonAsterisco.Click += new System.EventHandler(this.botonAsterisco_Click);
@@ -95,7 +95,7 @@
             this.botonNumeral.Location = new System.Drawing.Point(77, 107);
             this.botonNumeral.Name = "botonNumeral";
             this.botonNumeral.Size = new System.Drawing.Size(29, 23);
-            this.botonNumeral.TabIndex = 10;
+            this.botonNumeral.TabIndex = 11;
             this.botonNumeral.Text = "#";
             this.botonNumeral.UseVisualStyleBackColor = true;
             this.botonNumeral.Click += new System.EventHandler(this.botonNumeral_Click);
@@ -105,7 +105,7 @@
             this.botonNumerico0.Location = new System.Drawing.Point(42, 107);
             this.botonNumerico0.Name = "botonNumerico0";
             this.botonNumerico0.Size = new System.Drawing.Size(29, 23);
-            this.botonNumerico0.TabIndex = 9;
+            this.botonNumerico0.TabIndex = 10;
             this.botonNumerico0.Text = "0";
             this.botonNumerico0.UseVisualStyleBackColor = true;
             this.botonNumerico0.Click += new System.EventHandler(this.botonNumerico0_Click);
@@ -145,7 +145,7 @@
             this.botonNumerico5.Location = new System.Drawing.Point(42, 49);
             this.botonNumerico5.Name = "botonNumerico5";
             this.botonNumerico5.Size = new System.Drawing.Size(29, 23);
-            this.botonNumerico5.TabIndex = 5;
+            this.botonNumerico5.TabIndex = 4;
             this.botonNumerico5.Text = "5";
             this.botonNumerico5.UseVisualStyleBackColor = true;
             this.botonNumerico5.Click += new System.EventHandler(this.botonNumerico5_Click);
@@ -155,7 +155,7 @@
             this.botonNumerico6.Location = new System.Drawing.Point(77, 49);
             this.botonNumerico6.Name = "botonNumerico6";
             this.botonNumerico6.Size = new System.Drawing.Size(29, 23);
-            this.botonNumerico6.TabIndex = 4;
+            this.botonNumerico6.TabIndex = 5;
             this.botonNumerico6.Text = "6";
             this.botonNumerico6.UseVisualStyleBackColor = true;
             this.botonNumerico6.Click += new System.EventHandler(this.botonNumerico6_Click);
@@ -205,7 +205,7 @@
             this.botonLlamar.Location = new System.Drawing.Point(168, 64);
             this.botonLlamar.Name = "botonLlamar";
             this.botonLlamar.Size = new System.Drawing.Size(107, 23);
-            this.botonLlamar.TabIndex = 12;
+            this.botonLlamar.TabIndex = 0;
             this.botonLlamar.Text = "Llamar";
             this.botonLlamar.UseVisualStyleBackColor = true;
             this.botonLlamar.Click += new System.EventHandler(this.botonLlamar_Click);
@@ -215,7 +215,7 @@
             this.botonLimpiar.Location = new System.Drawing.Point(168, 93);
             this.botonLimpiar.Name = "botonLimpiar";
             this.botonLimpiar.Size = new System.Drawing.Size(107, 23);
-            this.botonLimpiar.TabIndex = 13;
+            this.botonLimpiar.TabIndex = 1;
             this.botonLimpiar.Text = "Limpiar";
             this.botonLimpiar.UseVisualStyleBackColor = true;
             this.botonLimpiar.Click += new System.EventHandler(this.botonLimpiar_Click);
@@ -225,7 +225,7 @@
             this.botonSalir.Location = new System.Drawing.Point(168, 151);
             this.botonSalir.Name = "botonSalir";
             this.botonSalir.Size = new System.Drawing.Size(107, 23);
-            this.botonSalir.TabIndex = 14;
+            this.botonSalir.TabIndex = 3;
             this.botonSalir.Text = "Salir";
             this.botonSalir.UseVisualStyleBackColor = true;
             this.botonSalir.Click += new System.EventHandler(this.botonSalir_Click);
@@ -245,9 +245,9 @@
             this.comboBoxFranja.Location = new System.Drawing.Point(13, 209);
             this.comboBoxFranja.Name = "comboBoxFranja";
             this.comboBoxFranja.Size = new System.Drawing.Size(262, 21);
-            this.comboBoxFranja.TabIndex = 16;
+            this.comboBoxFranja.TabIndex = 2;
             // 
-            // frmLlamador
+            // FrmLlamador
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -259,8 +259,13 @@
             this.Controls.Add(this.botonLlamar);
             this.Controls.Add(this.groupBoxPanel);
             this.Controls.Add(this.textBoxNumeroDestino);
-            this.Name = "frmLlamador";
-            this.Text = "Form2";
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "FrmLlamador";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Llamador";
+            this.Load += new System.EventHandler(this.FrmLlamador_Load);
             this.groupBoxPanel.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -95,8 +95,11 @@
             this.Controls.Add(this.botonFacturacionLocal);
             this.Controls.Add(this.botonFacturacionTotal);
             this.Controls.Add(this.botonGenerarLlamada);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "FrmMenu";
-            this.Text = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Menu";
             this.ResumeLayout(false);
 
         }
