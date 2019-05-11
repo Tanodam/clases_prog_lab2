@@ -76,6 +76,7 @@ namespace ComiqueriaApp
             this.btnVender.TabIndex = 0;
             this.btnVender.Text = "Vender";
             this.btnVender.UseVisualStyleBackColor = true;
+            this.btnVender.Click += this.OnVenderClick;
             // 
             // richTextBoxDetalle
             // 

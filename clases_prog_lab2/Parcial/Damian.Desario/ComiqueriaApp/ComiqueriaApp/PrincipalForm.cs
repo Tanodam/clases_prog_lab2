@@ -68,7 +68,7 @@ namespace ComiqueriaApp
         /// <param name="e"></param>
         private void ListBoxProductos_SelectedIndexChanged(object sender, EventArgs e)
         {
-            Guid codigoProducto = ((KeyValuePair<Guid,string>)this.listBoxProductos.SelectedItem).Key;
+           Guid codigoProducto = ((KeyValuePair<Guid, string>)this.listBoxProductos.SelectedItem).Key;
             this.productoSeleccionado = this.comiqueria[codigoProducto];
             this.richTextBoxDetalle.Text = this.productoSeleccionado.ToString();
         }
@@ -80,16 +80,15 @@ namespace ComiqueriaApp
         /// <param name="e"></param>
         private void OnVenderClick(object sender, EventArgs e)
         {
-      //Si el constructor tiene parámetros de entrada proporcionarle los argumentos que correspondan.
-      //El campo "productoSeleccionado" contiene el producto actualmente seleccionado en el listBox de productos. 
-      //El campo "comiqueria" contiene la instancia de la comiqueria que se está utilizando. 
-      Form ventasForm = new VentasForm(productoSeleccionado);
+            //Si el constructor tiene parámetros de entrada proporcionarle los argumentos que correspondan.
+            //El campo "productoSeleccionado" contiene el producto actualmente seleccionado en el listBox de productos. 
+            //El campo "comiqueria" contiene la instancia de la comiqueria que se está utilizando. 
+            Form ventasForm = new VentasForm(productoSeleccionado, comiqueria);
             DialogResult result = ventasForm.ShowDialog(); //Agregar código para abrir ventasForm de forma MODAL
             if (result == DialogResult.OK)
             {
                 this.richTextBoxVentas.Text = this.comiqueria.ListarVentas();
             }
         }
-
-  }
+    }
 }
