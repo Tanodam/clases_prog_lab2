@@ -71,12 +71,12 @@ namespace ComiqueriaApp
             0,
             0,
             0});
-            this.numericUpDownCantidad.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
+            this.numericUpDownCantidad.ValueChanged += new System.EventHandler(this.numericUpDownCantidad_ValueChanged);
             // 
             // lblPrecioFinal
             // 
             this.lblPrecioFinal.AutoSize = true;
-            this.lblPrecioFinal.Location = new System.Drawing.Point(160, 70);
+            this.lblPrecioFinal.Location = new System.Drawing.Point(149, 65);
             this.lblPrecioFinal.Name = "lblPrecioFinal";
             this.lblPrecioFinal.Size = new System.Drawing.Size(95, 13);
             this.lblPrecioFinal.TabIndex = 3;
@@ -106,7 +106,7 @@ namespace ComiqueriaApp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(260, 165);
+            this.ClientSize = new System.Drawing.Size(260, 136);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnVender);
             this.Controls.Add(this.lblPrecioFinal);

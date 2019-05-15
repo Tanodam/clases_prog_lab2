@@ -12,11 +12,12 @@ namespace ComiqueriaLogic
         private static int porcentajeIva;
         private double precioFinal;
         private Producto producto;
+
         #region Propiedad
         /// <summary>
         /// Propiedad que retorna la fecha
         /// </summary>
-        protected DateTime Fecha
+        internal DateTime Fecha
         {
             get
             {
@@ -58,15 +59,21 @@ namespace ComiqueriaLogic
             decimal precioFinalDecimal = Convert.ToDecimal(this.precioFinal);
             return String.Format("Fecha {0} - Descripcion {1} - PrecioFinal ${2}\n", this.Fecha, producto.Descripcion, precioFinalDecimal.ToString("N2"));
         }
-
+        /// <summary>
+        /// Realiza la venta de un producto
+        /// </summary>
+        /// <param name="cantidad"></param>
         private void Vender(int cantidad)
         {
-            int auxiliar = producto.Stock;
-            auxiliar = auxiliar - cantidad;
-            producto.Stock = auxiliar;
+            producto.Stock -= cantidad;
             fecha = DateTime.Now;
             this.precioFinal = Venta.CalcularPrecioFinal(producto.Precio, cantidad);
         }
+        /// <summary>
+        /// Constructor que recibe producto y cantidad para realizar la venta
+        /// </summary>
+        /// <param name="producto"></param>
+        /// <param name="cantidad"></param>
         internal Venta(Producto producto, int cantidad)
         {
             this.producto = producto;

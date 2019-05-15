@@ -13,6 +13,7 @@ namespace ComiqueriaLogic
         private double precio;
         private int stock;
 
+        #region Propiedades
         public string Descripcion
         {
             get
@@ -41,10 +42,23 @@ namespace ComiqueriaLogic
                 }
             }
         }
+        #endregion
+
+        #region Metodos
+        /// <summary>
+        /// Conversion explicita de Guid, recibe el producto y devuelve su codigo
+        /// </summary>
+        /// <param name="producto"></param>
         public static explicit operator Guid(Producto producto)
         {
             return producto.codigo;
         }
+        /// <summary>
+        /// Constructor del producto
+        /// </summary>
+        /// <param name="descripcion"></param>
+        /// <param name="stock"></param>
+        /// <param name="precio"></param>
         protected Producto(string descripcion, int stock, double precio)
         {
             this.codigo = Guid.NewGuid();
@@ -52,6 +66,10 @@ namespace ComiqueriaLogic
             this.stock = stock;
             this.precio = precio;
         }
+        /// <summary>
+        /// Sobreescritura del metodo ToString
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             StringBuilder datos = new StringBuilder();
@@ -64,7 +82,7 @@ namespace ComiqueriaLogic
 
         }
 
-
+        #endregion
 
     }
 }
