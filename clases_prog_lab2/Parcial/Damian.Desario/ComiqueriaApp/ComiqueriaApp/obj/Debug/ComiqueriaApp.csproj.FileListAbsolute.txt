@@ -91,3 +91,17 @@ C:\Users\soporte3\Documents\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Des
 C:\Users\soporte3\Documents\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
 C:\Users\soporte3\Documents\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
 C:\Users\soporte3\Documents\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe.config
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.dll
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csprojAssemblyReference.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.VentasForm.resources
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.GenerateResource.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CoreCompileInputs.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb

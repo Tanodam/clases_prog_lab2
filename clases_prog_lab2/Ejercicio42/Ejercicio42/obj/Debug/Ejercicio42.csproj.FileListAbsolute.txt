@@ -1,0 +1,7 @@
+D:\Damian Desario\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.exe.config
+D:\Damian Desario\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.exe
+D:\Damian Desario\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.pdb
+D:\Damian Desario\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.csproj.CoreCompileInputs.cache
+D:\Damian Desario\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.exe
+D:\Damian Desario\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.pdb
+D:\Damian Desario\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.csprojAssemblyReference.cache
