@@ -1,0 +1,10 @@
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio47\Console\bin\Debug\Console.exe.config
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio47\Console\bin\Debug\Console.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio47\Console\bin\Debug\Console.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio47\Console\bin\Debug\Ejercicio47.dll
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio47\Console\bin\Debug\Ejercicio47.pdb
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio47\Console\obj\Debug\Console.csprojAssemblyReference.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio47\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio47\Console\obj\Debug\Console.csproj.CopyComplete
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio47\Console\obj\Debug\Console.exe
+D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio47\Console\obj\Debug\Console.pdb
