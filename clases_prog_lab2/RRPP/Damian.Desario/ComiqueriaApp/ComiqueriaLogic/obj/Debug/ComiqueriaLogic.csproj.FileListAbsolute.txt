@@ -1,0 +1,22 @@
+C:\Users\alumno\Desktop\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+C:\Users\alumno\Desktop\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\alumno\Desktop\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+C:\Users\alumno\Desktop\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+C:\Users\soporte3\Desktop\UTN\clases_prog_lab2\clases_prog_lab2\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+D:\Damian Desario\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+D:\Damian Desario\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+D:\Damian Desario\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+D:\Damian Desario\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+D:\Damian Desario\Parcial\Damian.Desario\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb

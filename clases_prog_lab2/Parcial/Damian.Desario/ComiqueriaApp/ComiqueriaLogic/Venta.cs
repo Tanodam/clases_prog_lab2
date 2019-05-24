@@ -45,7 +45,6 @@ namespace ComiqueriaLogic
         /// <returns></returns>
         public static double CalcularPrecioFinal(double precioUnidad, int cantidad)
         {
-            //multiplica 30 x 5900 y divide por 100
             double iva = (precioUnidad * cantidad) * (porcentajeIva / 100);
             double precioFinalAux = (precioUnidad * cantidad) + iva;
             return precioFinalAux;
