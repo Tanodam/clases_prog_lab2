@@ -1,0 +1,7 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio46\Ejercicio_36\bin\Debug\Ejercicio_36.exe.config
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio46\Ejercicio_36\bin\Debug\Ejercicio_36.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio46\Ejercicio_36\bin\Debug\Ejercicio_36.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio46\Ejercicio_36\obj\Debug\Ejercicio_46.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio46\Ejercicio_36\obj\Debug\Ejercicio_46.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio46\Ejercicio_36\obj\Debug\Ejercicio_36.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio46\Ejercicio_36\obj\Debug\Ejercicio_36.pdb
