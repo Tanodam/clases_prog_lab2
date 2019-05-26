@@ -1,0 +1,12 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio52\Ejercicio_52\Entidades\bin\Debug\Entidades.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio52\Ejercicio_52\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio52\Ejercicio_52\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio52\Ejercicio_52\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio52\Ejercicio_52\Entidades\obj\Debug\Entidades.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio52\Ejercicio_52\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio53\Ejercicio_52\Entidades\bin\Debug\Entidades.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio53\Ejercicio_52\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio53\Ejercicio_52\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio53\Ejercicio_52\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio53\Ejercicio_52\Entidades\obj\Debug\Entidades.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio53\Ejercicio_52\Entidades\obj\Debug\Entidades.pdb

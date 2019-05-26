@@ -1,0 +1,10 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio54\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio54\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio54\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio54\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio54\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio54\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio54\VistaConsola\obj\Debug\VistaConsola.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio54\VistaConsola\bin\Debug\IO.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio54\VistaConsola\bin\Debug\IO.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio54\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete

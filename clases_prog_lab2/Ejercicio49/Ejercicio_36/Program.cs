@@ -10,10 +10,10 @@ namespace Ejercicio_36
     {
         static void Main(string[] args)
         {
-            Competencia<VehiculoCarrera> competencia = new Competencia<VehiculoCarrera>(20, 5, TipoCompetencia.MotoCross);
-            VehiculoCarrera motoUno = new MotoCross(3, "Mercedes Benz");
-            VehiculoCarrera autoUno = new AutoF1(7, "Fiat 8000");
-            VehiculoCarrera autoDos = new AutoF1(12, "Toyota");
+            Competencia<VehiculoCarrera> competencia = new Competencia<VehiculoCarrera>(20, 5, TipoCompetencia.F1);
+            MotoCross motoUno = new MotoCross(3, "Mercedes Benz");
+            AutoF1 autoUno = new AutoF1(7, "Fiat 8000");
+            AutoF1 autoDos = new AutoF1(12, "Toyota");
 
             try
             {

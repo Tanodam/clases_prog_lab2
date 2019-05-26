@@ -1,0 +1,6 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio49\Ejercicio_36\bin\Debug\Ejercicio_36.exe.config
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio49\Ejercicio_36\bin\Debug\Ejercicio_36.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio49\Ejercicio_36\bin\Debug\Ejercicio_36.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio49\Ejercicio_36\obj\Debug\Ejercicio_49.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio49\Ejercicio_36\obj\Debug\Ejercicio_36.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio49\Ejercicio_36\obj\Debug\Ejercicio_36.pdb

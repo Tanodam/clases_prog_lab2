@@ -141,6 +141,7 @@ namespace Ejercicio_36
                     competencia.competidores.Add(vehiculo);
                     return true;
                 }
+
             }
             catch(CompetenciaNoDisponibleException exception)
             {
@@ -157,7 +158,7 @@ namespace Ejercicio_36
             if(competencia.Tipo == TipoCompetencia.F1 && vehiculo is AutoF1 || 
                 competencia.Tipo == TipoCompetencia.MotoCross && vehiculo is MotoCross)
             {
-                foreach (VehiculoCarrera auxiliar in competencia.competidores)
+                foreach (T auxiliar in competencia.competidores)
                 {
                     if (auxiliar == vehiculo)
                     {

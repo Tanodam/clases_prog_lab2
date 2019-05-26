@@ -1,0 +1,6 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio54\IO\bin\Debug\IO.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio54\IO\bin\Debug\IO.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio54\IO\obj\Debug\IO.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio54\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio54\IO\obj\Debug\IO.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio54\IO\obj\Debug\IO.pdb
