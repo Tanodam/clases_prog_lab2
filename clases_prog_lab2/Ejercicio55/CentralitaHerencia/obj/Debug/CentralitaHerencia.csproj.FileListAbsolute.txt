@@ -33,3 +33,10 @@ D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio44\CentralitaHerenc
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio44\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio44\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
 D:\Damian Desario\clases_prog_lab2\clases_prog_lab2\Ejercicio44\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio55\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio55\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio55\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio55\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio55\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio55\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio55\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb

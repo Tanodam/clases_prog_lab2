@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 
 namespace CentralitaHerencia
@@ -11,6 +12,8 @@ namespace CentralitaHerencia
     {
         private List<Llamada> listaDeLlamadas;
         private string razonSocial;
+        //ESTO SE GUARDA EN Ejercicio55\CentralitaHerencia\bin\Debug
+        private string rutaArchivo = "LogCentralita.txt";
 
         #region Propiedades
 
@@ -45,7 +48,17 @@ namespace CentralitaHerencia
             }
         }
 
-        public string RutaDelArchivo { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public string RutaDelArchivo
+        {
+            get
+            {
+                return this.rutaArchivo;
+            }
+            set
+            {
+                this.rutaArchivo = value;
+            }
+        }
 
         #endregion
 
@@ -106,15 +119,34 @@ namespace CentralitaHerencia
         {
             listaDeLlamadas.Sort(Llamada.OrdenarPorDuracion);
         }
-
+        /// <summary>
+        /// El método Guardar de la implementación de IGuardar en Centralita deberá 
+        /// guardar en un archivo de texto a modo de bitácora fecha y hora con el siguiente formato 
+        /// “Jueves 19 de octubre de 2017 19:09hs – Se realizó una llamada”;
+        /// </summary>
+        /// <returns></returns>
         public bool Guardar()
         {
-            throw new NotImplementedException();
+            StreamWriter archivo = new StreamWriter(this.RutaDelArchivo,true);
+            if (File.Exists(rutaArchivo))
+            {
+                archivo.WriteLine(DateTime.Now.ToString("dddd dd MMMM yyyy H:mm") + " - Se realizo una llamada");
+                archivo.Close();
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         public string Leer()
         {
-            throw new NotImplementedException();
+            StreamReader archivo = new StreamReader(RutaDelArchivo);
+            string texto = archivo.ReadToEnd();
+            archivo.Close();
+            return texto;
+
         }
 
         public static Centralita operator +(Centralita centralita, Llamada llamada)
@@ -123,7 +155,13 @@ namespace CentralitaHerencia
             {
                 throw new CentralitaException("La llamada ya existe en el sistema", "Centralita", "OPERATOR +");
             }
+
             centralita.AgregarLlamada(llamada);
+            if (!centralita.Guardar())
+            {
+                throw new CentralitaException("FallaLogException", Convert.ToString(typeof(Centralita)), "OPERADOR +");
+            }
+
             return centralita;
         }
         public static bool operator ==(Centralita centralita, Llamada llamada)

@@ -33,6 +33,7 @@ namespace CentralitaHerencia
 
             c.OrdenarLlamadas();
             Console.WriteLine(c.ToString());
+            Console.WriteLine(c.Leer());
             Console.ReadKey();
         }
 
