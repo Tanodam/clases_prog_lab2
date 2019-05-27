@@ -1,0 +1,6 @@
+C:\Users\soporte3\Desktop\UTN\Ejercicios\clases_prog_lab2\Ejercicio58\IO\bin\Debug\IO.dll
+C:\Users\soporte3\Desktop\UTN\Ejercicios\clases_prog_lab2\Ejercicio58\IO\bin\Debug\IO.pdb
+C:\Users\soporte3\Desktop\UTN\Ejercicios\clases_prog_lab2\Ejercicio58\IO\obj\Debug\IO.csprojAssemblyReference.cache
+C:\Users\soporte3\Desktop\UTN\Ejercicios\clases_prog_lab2\Ejercicio58\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+C:\Users\soporte3\Desktop\UTN\Ejercicios\clases_prog_lab2\Ejercicio58\IO\obj\Debug\IO.dll
+C:\Users\soporte3\Desktop\UTN\Ejercicios\clases_prog_lab2\Ejercicio58\IO\obj\Debug\IO.pdb
