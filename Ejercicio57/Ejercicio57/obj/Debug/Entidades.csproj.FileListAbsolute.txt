@@ -1,0 +1,7 @@
+C:\Users\soporte3\Desktop\UTN\Ejercicios\clases_prog_lab2\Ejercicio57\Ejercicio57\bin\Debug\Ejercicio57.exe.config
+C:\Users\soporte3\Desktop\UTN\Ejercicios\clases_prog_lab2\Ejercicio57\Ejercicio57\bin\Debug\Ejercicio57.exe
+C:\Users\soporte3\Desktop\UTN\Ejercicios\clases_prog_lab2\Ejercicio57\Ejercicio57\bin\Debug\Ejercicio57.pdb
+C:\Users\soporte3\Desktop\UTN\Ejercicios\clases_prog_lab2\Ejercicio57\Ejercicio57\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\soporte3\Desktop\UTN\Ejercicios\clases_prog_lab2\Ejercicio57\Ejercicio57\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\soporte3\Desktop\UTN\Ejercicios\clases_prog_lab2\Ejercicio57\Ejercicio57\obj\Debug\Ejercicio57.exe
+C:\Users\soporte3\Desktop\UTN\Ejercicios\clases_prog_lab2\Ejercicio57\Ejercicio57\obj\Debug\Ejercicio57.pdb
