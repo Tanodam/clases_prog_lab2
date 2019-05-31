@@ -9,10 +9,10 @@ namespace Entidades
     public class Lapiz : IAcciones
     {
         public float tamanioMina;
+        IAcciones iacciones;
 
         #region Propiedades
-
-        public ConsoleColor Color //Preguntar declaracion explicita, problema con ToString
+        ConsoleColor IAcciones.Color
         {
             get
             {
@@ -23,8 +23,7 @@ namespace Entidades
                 throw new NotImplementedException();
             }
         }
-
-        public float UnidadesDeEscritura // //Preguntar declaracion explicita, problema con ToString
+        float IAcciones.UnidadesDeEscritura
         {
             get
             {
@@ -42,30 +41,32 @@ namespace Entidades
 
         public Lapiz(int unidades)
         {
-
+            iacciones = this;
+            iacciones.UnidadesDeEscritura = unidades;
         }
 
         public override string ToString()
         {
-            
+            iacciones = this;
             StringBuilder datos = new StringBuilder();
-            datos.AppendFormat("Es un Lapiz\nColor {0}\nCantidad de tinta {1}", Color, UnidadesDeEscritura);
+            datos.AppendFormat("Es un Lapiz\nColor {0}\nCantidad de tinta {1}", iacciones.Color , iacciones.UnidadesDeEscritura);
             return datos.ToString();
-        }
-
-        public EscrituraWrapper Escribir(string texto)
-        {
-            for(int i = 0;i<texto.Length;i++)
-            {
-                this.tamanioMina -= 0.1f;
-
-            }
-            return new EscrituraWrapper(texto, Color);
         }
 
         bool IAcciones.Recargar(int unidades)
         {
             throw new NotImplementedException();
+        }
+
+        EscrituraWrapper IAcciones.Escribir(string texto)
+        {
+            iacciones = this;
+            for (int i = 0; i < texto.Length; i++)
+            {
+                this.tamanioMina -= 0.1f;
+
+            }
+            return new EscrituraWrapper(texto, iacciones.Color);
         }
 
         #endregion

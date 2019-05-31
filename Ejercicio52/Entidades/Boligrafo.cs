@@ -43,7 +43,8 @@ namespace Entidades
 
         public Boligrafo(int unidades, ConsoleColor color)
         {
-
+            this.tinta = unidades;
+            this.colorTinta = color;
         }
         /// <summary>
         /// En ambas clases el método ToString retornará un texto informando que es (Lapiz o Boligrafo)

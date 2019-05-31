@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Entidades;
-
 namespace VistaConsole
 {
     class Program
@@ -12,7 +11,7 @@ namespace VistaConsole
         static void Main(string[] args)
         {
             ConsoleColor colorOriginal = Console.ForegroundColor;
-            Lapiz miLapiz = new Lapiz(10);
+            IAcciones miLapiz = new Lapiz(10);
             Boligrafo miBoligrafo = new Boligrafo(20, ConsoleColor.Green);
             EscrituraWrapper eLapiz = miLapiz.Escribir("Hola");
             Console.ForegroundColor = eLapiz.color;

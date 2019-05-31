@@ -8,3 +8,13 @@ C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio52\Ejercicio_52\VistaConso
 C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio52\Ejercicio_52\VistaConsole\obj\Debug\VistaConsole.csproj.CopyComplete
 C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio52\Ejercicio_52\VistaConsole\obj\Debug\VistaConsole.exe
 C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio52\Ejercicio_52\VistaConsole\obj\Debug\VistaConsole.pdb
+D:\Damian Desario\clases_prog_lab2\Ejercicio52\VistaConsole\bin\Debug\VistaConsole.exe.config
+D:\Damian Desario\clases_prog_lab2\Ejercicio52\VistaConsole\bin\Debug\VistaConsole.exe
+D:\Damian Desario\clases_prog_lab2\Ejercicio52\VistaConsole\bin\Debug\VistaConsole.pdb
+D:\Damian Desario\clases_prog_lab2\Ejercicio52\VistaConsole\bin\Debug\Entidades.dll
+D:\Damian Desario\clases_prog_lab2\Ejercicio52\VistaConsole\bin\Debug\Entidades.pdb
+D:\Damian Desario\clases_prog_lab2\Ejercicio52\VistaConsole\obj\Debug\VistaConsole.csprojAssemblyReference.cache
+D:\Damian Desario\clases_prog_lab2\Ejercicio52\VistaConsole\obj\Debug\VistaConsole.csproj.CoreCompileInputs.cache
+D:\Damian Desario\clases_prog_lab2\Ejercicio52\VistaConsole\obj\Debug\VistaConsole.csproj.CopyComplete
+D:\Damian Desario\clases_prog_lab2\Ejercicio52\VistaConsole\obj\Debug\VistaConsole.exe
+D:\Damian Desario\clases_prog_lab2\Ejercicio52\VistaConsole\obj\Debug\VistaConsole.pdb

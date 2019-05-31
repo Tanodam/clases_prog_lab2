@@ -4,3 +4,9 @@ C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio52\Ejercicio_52\Entidades\
 C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio52\Ejercicio_52\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio52\Ejercicio_52\Entidades\obj\Debug\Entidades.dll
 C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio52\Ejercicio_52\Entidades\obj\Debug\Entidades.pdb
+D:\Damian Desario\clases_prog_lab2\Ejercicio52\Entidades\bin\Debug\Entidades.dll
+D:\Damian Desario\clases_prog_lab2\Ejercicio52\Entidades\bin\Debug\Entidades.pdb
+D:\Damian Desario\clases_prog_lab2\Ejercicio52\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Damian Desario\clases_prog_lab2\Ejercicio52\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Damian Desario\clases_prog_lab2\Ejercicio52\Entidades\obj\Debug\Entidades.dll
+D:\Damian Desario\clases_prog_lab2\Ejercicio52\Entidades\obj\Debug\Entidades.pdb
