@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4B967563-9750-4213-BA5E-AF68DBBF11BB}</ProjectGuid>
+    <ProjectGuid>{56B7F111-FADD-4D6E-8FAE-38305CD9F556}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Ejercicio60</RootNamespace>
-    <AssemblyName>Ejercicio60</AssemblyName>
+    <RootNamespace>Ejercicio61</RootNamespace>
+    <AssemblyName>Ejercicio61</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -51,6 +51,8 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Persona.cs" />
+    <Compile Include="PersonaDAO.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
