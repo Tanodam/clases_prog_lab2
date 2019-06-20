@@ -1,0 +1,5 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio58\Notepad\IO\bin\Debug\IO.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio58\Notepad\IO\bin\Debug\IO.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio58\Notepad\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio58\Notepad\IO\obj\Debug\IO.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Ejercicio58\Notepad\IO\obj\Debug\IO.pdb
