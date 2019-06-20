@@ -73,9 +73,11 @@
             // 
             // btnGuardar
             // 
-            this.btnGuardar.Location = new System.Drawing.Point(0, 95);
+            this.btnGuardar.Cursor = System.Windows.Forms.Cursors.Default;
+            this.btnGuardar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnGuardar.Location = new System.Drawing.Point(7, 95);
             this.btnGuardar.Name = "btnGuardar";
-            this.btnGuardar.Size = new System.Drawing.Size(75, 23);
+            this.btnGuardar.Size = new System.Drawing.Size(68, 23);
             this.btnGuardar.TabIndex = 2;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = true;
@@ -83,9 +85,11 @@
             // 
             // btnLeer
             // 
-            this.btnLeer.Location = new System.Drawing.Point(0, 124);
+            this.btnLeer.Cursor = System.Windows.Forms.Cursors.Default;
+            this.btnLeer.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnLeer.Location = new System.Drawing.Point(7, 124);
             this.btnLeer.Name = "btnLeer";
-            this.btnLeer.Size = new System.Drawing.Size(75, 23);
+            this.btnLeer.Size = new System.Drawing.Size(68, 23);
             this.btnLeer.TabIndex = 4;
             this.btnLeer.Text = "Leer";
             this.btnLeer.UseVisualStyleBackColor = true;
@@ -93,9 +97,11 @@
             // 
             // btnModificar
             // 
-            this.btnModificar.Location = new System.Drawing.Point(81, 95);
+            this.btnModificar.Cursor = System.Windows.Forms.Cursors.Default;
+            this.btnModificar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnModificar.Location = new System.Drawing.Point(88, 95);
             this.btnModificar.Name = "btnModificar";
-            this.btnModificar.Size = new System.Drawing.Size(75, 23);
+            this.btnModificar.Size = new System.Drawing.Size(68, 23);
             this.btnModificar.TabIndex = 3;
             this.btnModificar.Text = "Modificar";
             this.btnModificar.UseVisualStyleBackColor = true;
@@ -103,9 +109,11 @@
             // 
             // btnBorrar
             // 
-            this.btnBorrar.Location = new System.Drawing.Point(81, 124);
+            this.btnBorrar.Cursor = System.Windows.Forms.Cursors.Default;
+            this.btnBorrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnBorrar.Location = new System.Drawing.Point(88, 124);
             this.btnBorrar.Name = "btnBorrar";
-            this.btnBorrar.Size = new System.Drawing.Size(75, 23);
+            this.btnBorrar.Size = new System.Drawing.Size(68, 23);
             this.btnBorrar.TabIndex = 5;
             this.btnBorrar.Text = "Borrar";
             this.btnBorrar.UseVisualStyleBackColor = true;
