@@ -1,0 +1,13 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20181122-SP\Alumno\VistaPatentes\bin\Debug\VistaPatentes.dll.config
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20181122-SP\Alumno\VistaPatentes\bin\Debug\VistaPatentes.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20181122-SP\Alumno\VistaPatentes\bin\Debug\VistaPatentes.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20181122-SP\Alumno\VistaPatentes\bin\Debug\Entidades.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20181122-SP\Alumno\VistaPatentes\bin\Debug\Entidades.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.Properties.Resources.resources
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20181122-SP\Alumno\VistaPatentes\obj\Debug\Patentes.VistaPatente.resources
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.GenerateResource.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.CopyComplete
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.pdb

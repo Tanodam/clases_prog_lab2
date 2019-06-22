@@ -35,19 +35,17 @@ namespace Archivos
         public void Leer(string archivo, out Queue<Patente> datos)
         {
             datos = new Queue<Patente>();
-            try
+            using (System.IO.StreamReader file = new System.IO.StreamReader(archivo))
             {
-                reader = new StreamReader(archivo, Encoding.UTF8);
-                datos.Enqueue(reader.ReadLine().ValidarPatente());
-            }
-            catch (Exception exception)
-            {
-                throw exception;
-            }
-            finally
-            {
-                //Cierro conexion con el archivo
-                reader.Close();
+                while (!file.EndOfStream)
+                {
+                    try
+                    {
+                        datos.Enqueue(file.ReadLine().ValidarPatente());
+                    }
+                    catch (PatenteInvalidException e)
+                    { }
+                }
             }
         }
     }

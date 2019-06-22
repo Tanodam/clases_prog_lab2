@@ -1,0 +1,15 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Damian.Desario.2°C\bin\Debug\Damian.Desario.2°C.exe.config
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Damian.Desario.2°C\bin\Debug\Damian.Desario.2°C.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Damian.Desario.2°C\bin\Debug\Damian.Desario.2°C.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Damian.Desario.2°C\bin\Debug\Entidades.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Damian.Desario.2°C\bin\Debug\Interfaces.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Damian.Desario.2°C\bin\Debug\Entidades.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Damian.Desario.2°C\bin\Debug\Interfaces.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Damian.Desario.2°C\obj\Debug\Damian.Desario.2°C.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Damian.Desario.2°C\obj\Debug\Damian.Desario._2_C.frmPpal.resources
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Damian.Desario.2°C\obj\Debug\Damian.Desario._2_C.Properties.Resources.resources
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Damian.Desario.2°C\obj\Debug\Damian.Desario.2°C.csproj.GenerateResource.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Damian.Desario.2°C\obj\Debug\Damian.Desario.2°C.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Damian.Desario.2°C\obj\Debug\Damian.Desario.2°C.csproj.CopyComplete
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Damian.Desario.2°C\obj\Debug\Damian.Desario.2°C.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Damian.Desario.2°C\obj\Debug\Damian.Desario.2°C.pdb

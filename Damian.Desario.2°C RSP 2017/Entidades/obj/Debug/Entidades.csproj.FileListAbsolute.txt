@@ -1,0 +1,9 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Entidades\bin\Debug\Entidades.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Entidades\bin\Debug\Interfaces.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Entidades\bin\Debug\Interfaces.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Entidades\obj\Debug\Entidades.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Nueva carpeta\Damian.Desario.2°C\Entidades\obj\Debug\Entidades.pdb

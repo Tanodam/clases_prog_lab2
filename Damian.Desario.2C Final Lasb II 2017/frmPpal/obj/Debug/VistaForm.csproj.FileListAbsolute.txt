@@ -1,0 +1,13 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Damian.Desario.2C Final Lasb II 2017\frmPpal\bin\Debug\frmPpal.exe.config
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Damian.Desario.2C Final Lasb II 2017\frmPpal\bin\Debug\frmPpal.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Damian.Desario.2C Final Lasb II 2017\frmPpal\bin\Debug\frmPpal.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Damian.Desario.2C Final Lasb II 2017\frmPpal\bin\Debug\Entidades.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Damian.Desario.2C Final Lasb II 2017\frmPpal\bin\Debug\Entidades.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Damian.Desario.2C Final Lasb II 2017\frmPpal\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Damian.Desario.2C Final Lasb II 2017\frmPpal\obj\Debug\frmPpal.Form1.resources
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Damian.Desario.2C Final Lasb II 2017\frmPpal\obj\Debug\frmPpal.Properties.Resources.resources
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Damian.Desario.2C Final Lasb II 2017\frmPpal\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Damian.Desario.2C Final Lasb II 2017\frmPpal\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Damian.Desario.2C Final Lasb II 2017\frmPpal\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Damian.Desario.2C Final Lasb II 2017\frmPpal\obj\Debug\frmPpal.exe
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\Damian.Desario.2C Final Lasb II 2017\frmPpal\obj\Debug\frmPpal.pdb
