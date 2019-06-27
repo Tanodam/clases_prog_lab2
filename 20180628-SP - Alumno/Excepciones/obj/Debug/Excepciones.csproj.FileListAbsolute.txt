@@ -1,0 +1,6 @@
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20180628-SP - Alumno\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20180628-SP - Alumno\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Dami\Documents\UTN\clases_prog_lab2\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.pdb
